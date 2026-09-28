@@ -310,9 +310,9 @@ Future vocabulary notes should record:
 ## GitHub Backup After Note Updates
 
 - The user requests a new repository named `tcf-canada-study` for this entire French project and a commit/push after every future French-note update.
-- Default to a private repository because sources include textbooks and personal annotations. Do not publish publicly without an explicit user request.
+- The user explicitly requested public visibility after initial setup. This repository is public; notes, source materials, annotations, and committed history are accessible to anyone. Never commit credentials or unrelated private data.
 - Include all study notes, original source PDFs/PPTX, images, Vocabulary, Textbook Exercises, and both project instruction documents. Exclude only temporary extraction output (`tmp/`), operating-system caches, credentials, and Git internals.
-- Repository: `https://github.com/FakeForest/tcf-canada-study` (private), remote `origin`, branch `main`. GitHub CLI is authenticated as `FakeForest` and Git uses its credential helper. Always verify the remote commit after each push; local commits alone are not a completed backup.
+- Repository: `https://github.com/FakeForest/tcf-canada-study` (public, at the user's explicit request), remote `origin`, branch `main`. GitHub CLI is authenticated as `FakeForest` and Git uses its credential helper. Always verify the remote commit after each push; local commits alone are not a completed backup.
 - Official tools are installed at `~/.local/bin/gh` and `~/.local/bin/git-lfs`; include `~/.local/bin` in PATH for Git operations. Git LFS is configured locally and PDF/PPTX sources are tracked with LFS.
 - Configure Git LFS for large source PDFs before the initial commit; never silently omit a large source file. Explain any storage quota or billing requirement before proceeding.
 - After each requested note update: validate notes and links, inspect all project changes for secrets/unrelated content, stage intended French study changes, commit with a concise descriptive message, push to the verified remote, and verify the remote commit matches the local commit.
