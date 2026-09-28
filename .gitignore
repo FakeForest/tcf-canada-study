@@ -1,0 +1,10 @@
+# Generated extraction and rendering files, not study material.
+/tmp/
+.DS_Store
+._*
+
+# Never publish local credentials.
+.env
+.env.*
+*.pem
+*.key
