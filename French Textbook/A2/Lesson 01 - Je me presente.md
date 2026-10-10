@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 1
 lesson: 1
-source: "[[你好法语2.pdf]]"
+source: "[[你好法语2-10.9.pdf]]"
 supplement: "[[你好法语A2第一单元.pdf]]"
 pages: 12-15
 supplement_pages: 2-5
@@ -14,53 +14,53 @@ supplement_pages: 2-5
 
 > [!info] 本课重点
 > **自我介绍、询问个人信息、课程时间和地点。** 以第一单元课件的 U1L1 为主要整理依据，教材补充完整对话与手写批注。
-> 课件第 6 页开始是 L2，本次不提前整理。教材第 14 页主要是练习，不抄题或补造听力答案。
+> 本课对应课件第 2–5 页；第 6 页开始是[[Lesson 02 - De mere en fille|第 2 课]]。教材第 14 页主要是练习，不抄题或补造听力答案。
 
 ## 课文
 
 ### 1. 在大学接待处：较正式的表达
 
-| 法语原句 | 中文理解 |
-|---|---|
-| Bonjour. | 你们好。 |
-| Bonjour. | 您好。 |
-| Vous êtes de nouvelles étudiantes ? | 你们是新生吗？ |
-| Oui, c'est ça. | 对，是的。 |
-| Quel est votre nom s'il vous plaît ? | 请问您贵姓？ |
-| Pérez. Silvia Pérez. | 佩雷兹，西尔维娅·佩雷兹。 |
-| Je suis en Histoire. | 我是历史学专业的。 |
-| Silvia Pérez… D'accord. | 西尔维娅·佩雷兹……好的。 |
+| 法语原句                                                                                                   | 中文理解                         |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| Bonjour.                                                                                               | 你们好。                         |
+| Bonjour.                                                                                               | 您好。                          |
+| Vous êtes de nouvelles étudiantes ?                                                                    | 你们是新生吗？                      |
+| Oui, c'est ça.                                                                                         | 对，是的。                        |
+| Quel est votre nom s'il vous plaît ?                                                                   | 请问您贵姓？                       |
+| Pérez. Silvia Pérez.                                                                                   | 佩雷兹，西尔维娅·佩雷兹。                |
+| Je suis en Histoire.                                                                                   | 我是历史学专业的。                    |
+| Silvia Pérez… D'accord.                                                                                | 西尔维娅·佩雷兹……好的。                |
 | Alors, Silvia, voici votre carte d'étudiante et deux documents avec des informations sur l'université. | 那么，西尔维娅，这是您的学生证和两份有关大学情况的资料。 |
-| La présentation des cours, c'est en salle D12. | 课程介绍会在 D12 教室举行。 |
-| À quelle heure commence-t-elle ? | 介绍会几点开始？ |
-| À 10 heures. | 10 点。 |
-| D'accord. | 好的。 |
-| Et vous, Mademoiselle, comment vous appelez-vous ? | 那么您呢，小姐，您叫什么名字？ |
-| Je m'appelle Marina Pérez. | 我叫玛丽娜·佩雷兹。 |
-| Vous êtes de la même famille ? | 你们是一家人吗？ |
-| Oui. C'est ma sœur. | 是的。这是我姐姐。 |
-| Ah, d'accord ! | 啊，明白了！ |
-| Alors… Marina Pérez… Vous êtes en Histoire vous aussi ? | 那么……玛丽娜·佩雷兹……您也是历史学专业的吗？ |
-| Non, je suis en Anglais. | 不是，我是英语专业的。 |
-| Hum, hum… Ah oui ! | 嗯……啊，对了！ |
-| Vous, Marina, vous avez rendez-vous en salle C5. | 玛丽娜，您的介绍会安排在 C5 教室。 |
-| Voici votre carte d'étudiante et les informations sur la fac. | 这是您的学生证和大学的相关资料。 |
-| À quelle heure commence la présentation pour moi ? | 我的介绍会几点开始？ |
-| À la même heure. | 同一时间。 |
-| Dix heures. | 10 点。 |
-| Ah non, pardon, dix heures et demie. | 啊，不对，抱歉，是 10 点半。 |
-| Et après ? | 那之后呢？ |
-| Que fait-on ? | 我们做什么？ |
-| Nous allons tout vous expliquer pendant la présentation. | 我们会在介绍会上向你们解释清楚所有事情。 |
-| Ne vous inquiétez pas. | 请别担心。 |
-| Bon, d'accord. | 好的，明白了。 |
-| Où se trouvent les salles D12 et C5, s'il vous plaît ? | 请问 D12 和 C5 教室在哪里？ |
-| La C5 est au bout du couloir, à gauche. | C5 在走廊尽头的左边。 |
-| La D12 est au premier étage. | D12 在二楼，按法式楼层编号为地面层的上一层。 |
-| Merci. | 谢谢。 |
-| Bonne journée. | 祝你们今天愉快。 |
+| La présentation des cours, c'est en salle D12.                                                         | 课程介绍会在 D12 教室举行。             |
+| À quelle heure commence-t-elle ?                                                                       | 介绍会几点开始？                     |
+| À 10 heures.                                                                                           | 10 点。                        |
+| D'accord.                                                                                              | 好的。                          |
+| Et vous, Mademoiselle, comment vous appelez-vous ?                                                     | 那么您呢，小姐，您叫什么名字？              |
+| Je m'appelle Marina Pérez.                                                                             | 我叫玛丽娜·佩雷兹。                   |
+| Vous êtes de la même famille ?                                                                         | 你们是一家人吗？                     |
+| Oui. C'est ma sœur.                                                                                    | 是的。这是我姐姐。                    |
+| Ah, d'accord !                                                                                         | 啊，明白了！                       |
+| Alors… Marina Pérez… Vous êtes en Histoire vous aussi ?                                                | 那么……玛丽娜·佩雷兹……您也是历史学专业的吗？     |
+| Non, je suis en Anglais.                                                                               | 不是，我是英语专业的。                  |
+| Hum, hum… Ah oui !                                                                                     | 嗯……啊，对了！                     |
+| Vous, Marina, vous avez rendez-vous en salle C5.                                                       | 玛丽娜，您的介绍会安排在 C5 教室。          |
+| Voici votre carte d'étudiante et les informations sur la fac.                                          | 这是您的学生证和大学的相关资料。             |
+| À quelle heure commence la présentation pour moi ?                                                     | 我的介绍会几点开始？                   |
+| À la même heure.                                                                                       | 同一时间。                        |
+| Dix heures.                                                                                            | 10 点。                        |
+| Ah non, pardon, dix heures et demie.                                                                   | 啊，不对，抱歉，是 10 点半。             |
+| Et après ?                                                                                             | 那之后呢？                        |
+| Que fait-on ?                                                                                          | 我们做什么？                       |
+| Nous allons tout vous expliquer pendant la présentation.                                               | 我们会在介绍会上向你们解释清楚所有事情。         |
+| Ne vous inquiétez pas.                                                                                 | 请别担心。                        |
+| Bon, d'accord.                                                                                         | 好的，明白了。                      |
+| Où se trouvent les salles D12 et C5, s'il vous plaît ?                                                 | 请问 D12 和 C5 教室在哪里？           |
+| La C5 est au bout du couloir, à gauche.                                                                | C5 在走廊尽头的左边。                 |
+| La D12 est au premier étage.                                                                           | D12 在二楼，按法式楼层编号为地面层的上一层。     |
+| Merci.                                                                                                 | 谢谢。                          |
+| Bonne journée.                                                                                         | 祝你们今天愉快。                     |
 
-> 来源：[[你好法语2.pdf#page=15|教材第 15 页：对话 1 与中文译文]]。对话先说 10 点、随后改口为 10 点半，复习时注意两人的安排不同。
+> 来源：[[你好法语2-10.9.pdf#page=15|教材第 15 页：对话 1 与中文译文]]。对话先说 10 点、随后改口为 10 点半，复习时注意两人的安排不同。
 
 ### 2. 同学之间：更口语的表达
 
@@ -79,7 +79,7 @@ supplement_pages: 2-5
 | Au premier. | 在二楼。这里省略了 étage。 |
 | Ok. Et après, qu'est-ce qu'on fait ? | 好的。那么之后我们做什么？ |
 
-> 来源：[[你好法语2.pdf#page=15|教材第 15 页：对话 2]]
+> 来源：[[你好法语2-10.9.pdf#page=15|教材第 15 页：对话 2]]
 
 ### 3. 课件重点句与搭配
 
@@ -128,7 +128,7 @@ supplement_pages: 2-5
 |---|---|---|---|---|---|
 | reçois | reçois | reçoit | recevons | recevez | reçoivent |
 
-> 来源：[[你好法语A2第一单元.pdf#page=2|课件第 2 页]]；[[你好法语2.pdf#page=12|教材第 12 页：学生证、词汇与手写批注]]；[[你好法语2.pdf#page=15|第 15 页：课文及批注]]
+> 来源：[[你好法语A2第一单元.pdf#page=2|课件第 2 页]]；[[你好法语2-10.9.pdf#page=12|教材第 12 页：学生证、词汇与手写批注]]；[[你好法语2-10.9.pdf#page=15|第 15 页：课文及批注]]
 
 ## 语法
 
@@ -169,7 +169,7 @@ supplement_pages: 2-5
 > [!note] 日期与星期：你的手写区分
 > **Quelle date sommes-nous ?** 问日期；**Quel jour sommes-nous ?** 问星期几。分别注意 **date → quelle**、**jour → quel**。
 
-> 来源：[[你好法语A2第一单元.pdf#page=3|课件第 3 页：quel]]；[[你好法语2.pdf#page=13|教材第 13 页：性数表]]；[[你好法语2.pdf#page=12|第 12 页：手写日期与星期提示]]。课件第 3 页底部有被截断的文字，不据隐藏文字层补写不可见例句。
+> 来源：[[你好法语A2第一单元.pdf#page=3|课件第 3 页：quel]]；[[你好法语2-10.9.pdf#page=13|教材第 13 页：性数表]]；[[你好法语2-10.9.pdf#page=12|第 12 页：手写日期与星期提示]]。课件第 3 页底部有被截断的文字，不据隐藏文字层补写不可见例句。
 
 ### 2. 一般疑问句：同一个问题，三种形式
 
@@ -202,7 +202,7 @@ supplement_pages: 2-5
 | Où se trouvent les salles D12 et C5 ? | La salle D12 se trouve où ? | 教室在哪里？注意前者复数，后者单数。 |
 | Que fait-on ? | Qu'est-ce qu'on fait ? | 我们做什么？ |
 
-> 第 2–3 节主要来源：[[你好法语A2第一单元.pdf#page=4|课件第 4 页：一般与特殊疑问句的三种形式]]；对照句来自 [[你好法语2.pdf#page=15|教材第 15 页]]。
+> 第 2–3 节主要来源：[[你好法语A2第一单元.pdf#page=4|课件第 4 页：一般与特殊疑问句的三种形式]]；对照句来自 [[你好法语2-10.9.pdf#page=15|教材第 15 页]]。
 
 ### 4. 倒装的连接符和 -t-
 
@@ -242,7 +242,7 @@ supplement_pages: 2-5
 | Qu'est-ce que les jeunes demandent aujourd'hui ? | 同上，est-ce que 后保留陈述语序。 |
 | Qui est dans la chambre ? | 谁在房间里？这里 qui 本身就是主语。 |
 
-> 来源：[[你好法语2.pdf#page=13|教材第 13 页：疑问句补充]]
+> 来源：[[你好法语2-10.9.pdf#page=13|教材第 13 页：疑问句补充]]
 
 ### 6. 课文搭配：把课件词汇放回句子
 
@@ -262,7 +262,7 @@ supplement_pages: 2-5
 
 **de la même famille** 中的 de 则是介词，表示“来自”，不是同一条冠词变化规则。
 
-> 来源：[[你好法语A2第一单元.pdf#page=2|课件第 2 页]]；[[你好法语2.pdf#page=15|教材第 15 页：注释与手写拆解]]
+> 来源：[[你好法语A2第一单元.pdf#page=2|课件第 2 页]]；[[你好法语2-10.9.pdf#page=15|教材第 15 页：注释与手写拆解]]
 
 ## 快速复习
 
@@ -274,5 +274,4 @@ supplement_pages: 2-5
 > - 能说清 **être en Histoire、se trouver、expliquer quelque chose à quelqu'un**。
 > - 能对照两段对话，把正式问法和口语问法联系起来。
 
-**教材来源：** [[你好法语2.pdf#page=12|第 12–15 页]]  
-**主要课件来源：** [[你好法语A2第一单元.pdf#page=2|U1L1，第 2–5 页]]
+**教材来源：** [[你好法语2-10.9.pdf#page=12|第 12–15 页]]；**主要课件来源：** [[你好法语A2第一单元.pdf#page=2|U1L1，第 2–5 页]]

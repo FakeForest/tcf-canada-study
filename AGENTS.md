@@ -134,13 +134,13 @@ Preferred lesson structure:
 
 ### A2 Current Work
 
-- Current A2 textbook: `French Textbook/A2/你好法语2.pdf` (252 PDF pages).
+- Current A2 textbook: `French Textbook/A2/你好法语2-10.9.pdf` (252 PDF pages). Preserve the earlier `你好法语2.pdf` as a source file, but link A2 lesson notes to the 10.9 edition.
 - Current A2 supplement: `French Textbook/A2/你好法语A2第一单元.pdf` (15 pages).
 - A2 Lesson 1 is `French Textbook/A2/Lesson 01 - Je me presente.md`: textbook PDF pages 12-15, with both dialogues translated sentence by sentence; page 14 exercises excluded.
-- The user specifically requests that A2 Lesson 1 emphasize the Unit 1 slides: visible U1L1 content is on pages 2-5 (vocabulary, quel, three question forms, inversion). Page 6 begins U1L2; do not extract L2 or later until requested.
+- A2 notes now cover Lessons 1-5. Lesson 1 emphasizes Unit 1 slide pages 2-5 (vocabulary, quel, three question forms, inversion). Lesson 2 uses textbook pages 16-20 and visible U1L2 slide pages 6-13; slide page 14 is a listening/blank exercise, not a source for invented answers. Lesson 3 uses textbook pages 21-25 and visible U1L3 slide page 15. Lesson 4 uses textbook pages 26-29. Lesson 5 uses textbook pages 32-35 and starts Unit 2. No Unit 2 supplement has been supplied; do not invent its contents. Textbook page 30 is a Unit 1 review and page 31 opens Unit 2; neither is another lesson.
 - Preserve A1's Chinese-first explanations, handwritten cues, review structure, CSS class, and page links for A2.
 - Keep textbook-version tracking separate by level. A2 updates must NEVER replace A1 textbook links. Sweep all lesson notes within the affected level after each new PDF, verify pagination against that edition, and check zero obsolete links within that level.
-- A1 links remain on `taxi_1学生用书9.23.pdf`; A2 links currently use `你好法语2.pdf`. Do not treat A2 as a newer edition of A1.
+- A1 links remain on `taxi_1学生用书9.23.pdf`; A2 links currently use `你好法语2-10.9.pdf`. Do not treat A2 as a newer edition of A1.
 - Use level-qualified paths when a note name becomes ambiguous across A1/A2. Shared Vocabulary and Pronunciation folders remain unchanged.
 - Only the project-root AGENTS.md is used; do not create per-level agent files.
 
