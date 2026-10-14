@@ -23,14 +23,14 @@ pages: 32-35
 
 **Gina（Gigi）**
 
-| 法语原句 | 中文理解 |
-|---|---|
+| 法语原句                                                                                                                                | 中文理解                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | Boulevard de Belleville, vous verrez certainement une petite femme aux cheveux gris qui parle à ses amis ou à sa chienne, Capucine. | 在贝尔维尔大道，你一定会看到一位灰发矮个女士，正与朋友或她的母狗卡普辛说话。**qui** 指这位女士。 |
-| Dans le quartier, tout le monde l'appelle Gigi. | 街区里大家都叫她吉吉。 |
-| Née en Italie en 1927, cette femme de ménage à la retraite est arrivée à Belleville après la guerre. | 她 1927 年出生于意大利，是一名退休清洁工，战后到达贝尔维尔。 |
-| Elle a un fils qui vit maintenant à Strasbourg. | 她有一个儿子，现在住在斯特拉斯堡。 |
-| Avec 600 € de retraite par mois, Gigi habite aujourd'hui dans un petit studio de 25 m², rue du Pressoir. | 吉吉当时每月有 600 欧元退休金，住在普雷苏瓦街一间 25 平方米的小单间。 |
-| « Ce n'est pas très grand, mais ça me va ! » | “不算大，但对我来说正合适！” |
+| Dans le quartier, tout le monde l'appelle Gigi.                                                                                     | 街区里大家都叫她吉吉。                                          |
+| Née en Italie en 1927, cette femme de ménage à la retraite est arrivée à Belleville après la guerre.                                | 她 1927 年出生于意大利，是一名退休清洁工，战后到达贝尔维尔。                    |
+| Elle a un fils qui vit maintenant à Strasbourg.                                                                                     | 她有一个儿子，现在住在斯特拉斯堡。                                    |
+| Avec 600 € de retraite par mois, Gigi habite aujourd'hui dans un petit studio de 25 m², rue du Pressoir.                            | 吉吉当时每月有 600 欧元退休金，住在普雷苏瓦街一间 25 平方米的小单间。              |
+| « Ce n'est pas très grand, mais ça me va ! »                                                                                        | “不算大，但对我来说正合适！”                                      |
 
 **Farès**
 

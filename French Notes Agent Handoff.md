@@ -291,6 +291,7 @@ Current filled verb conjugation PDF:
 
 - `Vocabulary/不规则变位与过去分词 - 已填.pdf`: updated through Lesson 23; includes the core conjugation table plus a Lesson 22-23 supplement for `falloir` and regular second-group `-ir` verbs. It has not yet been refreshed for Lesson 24-36 unless the user asks.
 - `Vocabulary/未完成过去时与简单将来时变位表 - 已填.pdf`: filled on 2026-09-08 with imparfait and futur simple forms for the 24 verbs in the source table.
+- `Vocabulary/A2条件式现在时与虚拟式现在时变位表 - 已填.pdf`: filled for all 24 listed verbs, with conditionnel présent on the left and subjonctif présent on the right; `pleuvoir` follows the source table's third-person-singular-only slots. The unchanged source is `Vocabulary/A2条件式现在时与虚拟式现在时变位表.pdf`.
 
 Future vocabulary notes should record:
 
