@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 1
 lesson: 4
-source: "[[你好法语2-10.9.pdf]]"
+source: "[[你好法语2-10.16.pdf]]"
 pages: 26-29
 ---
 
@@ -26,7 +26,7 @@ pages: 26-29
 | une présentation de toutes les personnes de votre équipe ; | 团队每个成员的介绍； |
 | votre numéro de téléphone. | 你们的电话号码。 |
 
-> 来源：[[你好法语2-10.9.pdf#page=26|教材第 26 页：招募启事及手写词汇]]。**en or** 字面是“金子做的”，节目名中表示“出色、理想的”。
+> 来源：[[你好法语2-10.16.pdf#page=26|教材第 26 页：招募启事及手写词汇]]。**en or** 字面是“金子做的”，节目名中表示“出色、理想的”。
 
 ### 2. Isabelle 的报名邮件
 
@@ -70,7 +70,7 @@ pages: 26-29
 
 **结尾（教材 c、e 段）**：Isabelle 提供联系电话，并以 **À bientôt peut-être dans Une famille en or. Isabelle** 结尾（也许很快就能在《金牌家庭》节目见到你们）。此处不重复抄写课文中的电话号码。
 
-> 来源：[[你好法语2-10.9.pdf#page=27|教材第 27 页：报名邮件 a–f 段]]；[[你好法语2-10.9.pdf#page=29|第 29 页：中文对照]]。重排顺序：**b → d → a → f → c → e**。
+> 来源：[[你好法语2-10.16.pdf#page=27|教材第 27 页：报名邮件 a–f 段]]；[[你好法语2-10.16.pdf#page=29|第 29 页：中文对照]]。重排顺序：**b → d → a → f → c → e**。
 
 ## 单词
 
@@ -88,7 +88,7 @@ pages: 26-29
 | **passer du temps sur son blog** | 花时间在自己的博客上。 |
 | **un club de jeunes** | 青年俱乐部。 |
 
-> 来源：[[你好法语2-10.9.pdf#page=26|教材第 26 页：招募词汇与手写]]；[[你好法语2-10.9.pdf#page=27|第 27 页：家庭介绍]]。
+> 来源：[[你好法语2-10.16.pdf#page=26|教材第 26 页：招募词汇与手写]]；[[你好法语2-10.16.pdf#page=27|第 27 页：家庭介绍]]。
 
 ## 语法与表达
 
@@ -109,7 +109,7 @@ pages: 26-29
 - **venir de + 动词原形**：**ils viennent de visiter le Pérou** / 他们刚游览了秘鲁。与[[Lesson 02 - De mere en fille|第 2 课]]相连。
 - **tous les deux** 强调“两个人都”；**tout le monde** 指“所有人”，动词仍用第三人称单数：**tout le monde l'appelle Maguy**。
 
-> 来源：[[你好法语2-10.9.pdf#page=26|教材第 26 页：命令式和报名句]]；[[你好法语2-10.9.pdf#page=27|第 27 页：邮件句型]]。第 28 页的练习和节目相关文化栏不作为新增课文抄写。
+> 来源：[[你好法语2-10.16.pdf#page=26|教材第 26 页：命令式和报名句]]；[[你好法语2-10.16.pdf#page=27|第 27 页：邮件句型]]。第 28 页的练习和节目相关文化栏不作为新增课文抄写。
 
 ### 3. 手写动词提醒：envoyer
 
@@ -119,7 +119,7 @@ pages: 26-29
 
 教材边注还写有 **envoyé**（过去分词）、**j'envoyais**（未完成过去时）、**j'enverrai**（简单将来时）；肯定命令式是 **envoie / envoyons / envoyez**。未来词干 **enverr-** 与现在时不同。
 
-> 来源：[[你好法语2-10.9.pdf#page=26|教材第 26 页：envoyer 手写变位]]。
+> 来源：[[你好法语2-10.16.pdf#page=26|教材第 26 页：envoyer 手写变位]]。
 
 ## 快速复习
 
@@ -127,4 +127,4 @@ pages: 26-29
 - **介绍家庭**：**Mon mari s'appelle Juan. Il est né au Mexique.** / 我丈夫叫胡安，出生在墨西哥。
 - **刚刚去过**：**Ils viennent de visiter le Pérou.** / 他们刚游览了秘鲁。
 
-**教材来源：** [[你好法语2-10.9.pdf#page=26|第 26–29 页]]
+**教材来源：** [[你好法语2-10.16.pdf#page=26|第 26–29 页]]

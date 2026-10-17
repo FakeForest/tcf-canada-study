@@ -4,14 +4,15 @@ cssclasses:
 level: A2
 unit: 2
 lesson: 5
-source: "[[你好法语2-10.9.pdf]]"
+source: "[[你好法语2-10.16.pdf]]"
+supplement: "[[你好法语A2第二单元.pdf]]"
 pages: 32-35
 ---
 
 # A2 Lesson 5 - Parisiens, qui êtes-vous ?
 
 > [!info] 本课重点
-> 读三位 Belleville 居民的肖像和采访，学习**关系代词 qui / que、强调句 c'est… que，以及指示代词 celui / celle / ceux / celles**。教材提到的收入与年龄是原文人物在其写作背景下的信息，不是当下统计。
+> 读三位 Belleville 居民的肖像和采访，结合第二单元课件学习**关系代词 qui / que、强调句 c'est… qui / que，以及指示代词 celui / celle / ceux / celles**。教材提到的收入与年龄是原文人物在其写作背景下的信息，不是当下统计。
 
 ## 课文
 
@@ -51,7 +52,7 @@ pages: 32-35
 | Et pour elle ? | 那她自己呢？ |
 | « Vous savez, mon plaisir, c'est de rester chez moi, tranquille. Ça ne coûte pas cher, ça ! » | “你知道，我的乐趣就是安静地待在家里。这不怎么花钱！” |
 
-> 来源：[[你好法语2-10.9.pdf#page=32|教材第 32 页：三位居民的人物肖像与手写批注]]。
+> 来源：[[你好法语2-10.16.pdf#page=32|教材第 32 页：三位居民的人物肖像与手写批注]]。
 
 ### 2. Armelle 的采访
 
@@ -75,7 +76,7 @@ pages: 32-35
 | Non, je suis née en Bretagne. | 不是，我出生在布列塔尼。 |
 | J'y retourne souvent mais je ne voudrais pas vivre là-bas. | 我常回那里，但不想在那里生活。**y** 指布列塔尼。 |
 
-> 来源：[[你好法语2-10.9.pdf#page=35|教材第 35 页：采访原文和中文对照]]；同页练习与发音题不抄写。
+> 来源：[[你好法语2-10.16.pdf#page=35|教材第 35 页：采访原文和中文对照]]；同页练习与发音题不抄写。
 
 ## 单词
 
@@ -94,7 +95,7 @@ pages: 32-35
 | **proposer / le portrait** | 提供、介绍 / 人物肖像。 |
 | **ça me va / ça va avec…** | 这适合我 / 这与……相配；教材手写提醒两种搭配不同。 |
 
-> 来源：[[你好法语2-10.9.pdf#page=32|教材第 32 页：文章与手写批注]]；[[你好法语2-10.9.pdf#page=33|第 33 页：词汇表及 payer 的变位]]。
+> 来源：[[你好法语2-10.16.pdf#page=32|教材第 32 页：文章与手写批注]]；[[你好法语2-10.16.pdf#page=33|第 33 页：词汇表及 payer 的变位]]。
 
 ## 语法
 
@@ -107,7 +108,12 @@ pages: 32-35
 
 辨认方法：看关系代词后的从句是否已有主语。**une femme qui parle** 中 qui 自己是“说话”的主语；**un chanteur que Sophie aime** 中 Sophie 是“喜欢”的主语，que 是宾语。教材另有 **des villas qui sont situées en banlieue**（位于郊区的别墅）。
 
-> 来源：[[你好法语2-10.9.pdf#page=34|教材第 34 页：关系代词与例句]]；[[你好法语2-10.9.pdf#page=32|第 32 页：文章中 qui / qu' 的用例]]。
+课件把两个句子合并来展示位置：**Un homme parle avec Paul. Cet homme est mon voisin. → L'homme qui parle avec Paul est mon voisin.** 被指代的 *homme* 在从句里执行 *parle*，因此用 **qui**；**Vous allez voir un film. Ce film est intéressant. → Le film que vous allez voir est intéressant.** *vous* 已是从句主语，被看的是 *film*，因此用 **que**。**qui 可以指人也可以指物**，不是按“人/物”分工。
+
+> [!warning] 课件原句笔误
+> 课件第 6 页把 **J'ai rencontré un homme que tu parles souvent** 当成 *que* 的例子，但 **parler de quelqu'un** 需要 **de**：应写 **J'ai rencontré un homme dont tu parles souvent**。不能由“从句有主语”就直接选 *que*；还须看动词是否带介词。*dont* 在第 9 课再详细学习。
+
+> 来源：[[你好法语2-10.16.pdf#page=34|教材第 34 页：关系代词与例句]]；[[你好法语2-10.16.pdf#page=32|第 32 页：文章中 qui / qu' 的用例]]；[[你好法语A2第二单元.pdf#page=4|第二单元课件第 4–6 页：从句主语/宾语与原件笔误]]。
 
 ### 2. c'est… que：突出某一部分
 
@@ -119,7 +125,9 @@ pages: 32-35
 
 这里的 **que** 属于强调结构，与上面的“关系代词作宾语”不能简单画等号。把要强调的地点、时间等放在 **c'est** 后面。元音前写 **qu'**。
 
-> 来源：[[你好法语2-10.9.pdf#page=34|教材第 34 页：强调句例句]]。
+课件还将同一句话换焦点：**Ma mère aime bien la chanteuse Céline.** → **C'est ma mère qui aime bien la chanteuse Céline.**（强调“是我妈妈”）/ **C'est la chanteuse Céline que ma mère aime bien.**（强调“喜欢的是歌手 Céline”）。强调**主语**用 **c'est… qui**，强调**宾语、地点、时间**等用 **c'est… que**。例如 **C'est à 9 heures du matin que je suis sorti de chez lui.**（我正是在上午九点离开他家的。）
+
+> 来源：[[你好法语2-10.16.pdf#page=34|教材第 34 页：强调句例句]]；[[你好法语A2第二单元.pdf#page=8|第二单元课件第 8–9 页：强调主语、宾语和时间]]。
 
 ### 3. celui / celle / ceux / celles：指示代词
 
@@ -130,7 +138,9 @@ pages: 32-35
 
 **-ci** 指较近的“这个”，**-là** 指较远的“那个”：**Tu préfères quel sac ? Celui-ci ou celui-là ?**（你喜欢哪个包？这个还是那个？）**celle-ci** / **celle-là** 同理。文章 **celui-ci est né** 的 **celui-ci** 指 Farès，避免重复他的名字。单独的简单形式通常还要带后续修饰成分，带 **-ci/-là** 的形式可独立指代。
 
-> 来源：[[你好法语2-10.9.pdf#page=34|教材第 34 页：指示代词表及例句]]；[[你好法语2-10.9.pdf#page=32|第 32 页：celui-ci 在文章中的指代]]。
+课件把 **指示形容词 + 名词** 和 **指示代词**并列：**ce chat-ci / ce chat-là → celui-ci / celui-là**；**cette chambre-ci / cette chambre-là → celle-ci / celle-là**；复数还有 **ceux-ci / ceux-là**、**celles-ci / celles-là**。指示代词的性、数跟**被替代的名词**一致，不是跟说话人的性别一致。第 6 课会进一步学习不加 *-ci/-là* 的形式如何接 **de** 或关系从句。
+
+> 来源：[[你好法语2-10.16.pdf#page=34|教材第 34 页：指示代词表及例句]]；[[你好法语2-10.16.pdf#page=32|第 32 页：celui-ci 在文章中的指代]]；[[你好法语A2第二单元.pdf#page=10|第二单元课件第 10 页：-ci / -là 对照]]。
 
 ### 4. 词形与手写提醒
 
@@ -138,7 +148,7 @@ pages: 32-35
 - **payer** 现在时：**je paie, tu paies, il/elle paie, nous payons, vous payez, ils/elles paient**；保留 nous / vous 中的 **y**。
 - **J'y retourne souvent**：**y** 指“回到那里”，这里是布列塔尼。
 
-> 来源：[[你好法语2-10.9.pdf#page=32|教材第 32 页：否定与搭配批注]]；[[你好法语2-10.9.pdf#page=33|第 33 页：payer 变位]]；[[你好法语2-10.9.pdf#page=35|第 35 页：采访]]。
+> 来源：[[你好法语2-10.16.pdf#page=32|教材第 32 页：否定与搭配批注]]；[[你好法语2-10.16.pdf#page=33|第 33 页：payer 变位]]；[[你好法语2-10.16.pdf#page=35|第 35 页：采访]]。
 
 ## 快速复习
 
@@ -147,4 +157,4 @@ pages: 32-35
 - **强调地点**：**C'est dans ce quartier qu'**il est né。
 - **指“这个人”**：**celui-ci**；**指“这个女性/阴性事物”**：**celle-ci**。
 
-**教材来源：** [[你好法语2-10.9.pdf#page=32|第 32–35 页]]
+**教材来源：** [[你好法语2-10.16.pdf#page=32|第 32–35 页]]

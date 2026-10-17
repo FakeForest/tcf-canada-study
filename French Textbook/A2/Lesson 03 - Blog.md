@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 1
 lesson: 3
-source: "[[你好法语2-10.9.pdf]]"
+source: "[[你好法语2-10.16.pdf]]"
 supplement: "[[你好法语A2第一单元.pdf]]"
 pages: 21-25
 supplement_pages: 15
@@ -21,7 +21,7 @@ supplement_pages: 15
 
 Quentin 的博客分为 **mon portrait / mes goûts / mes activités**（个人介绍 / 喜好 / 活动），还有 **mes photos / mes ami(e)s**（照片 / 朋友）等栏目；个人资料写明他 18 岁、单身，住在加拿大多伦多，使用法语、英语和西班牙语。
 
-> 来源：[[你好法语2-10.9.pdf#page=21|教材第 21 页：博客页面与手写词汇]]。
+> 来源：[[你好法语2-10.16.pdf#page=21|教材第 21 页：博客页面与手写词汇]]。
 
 ### 2. 我的介绍
 
@@ -56,7 +56,7 @@ Quentin 的博客分为 **mon portrait / mes goûts / mes activités**（个人�
 | Parfois, j'aime bien rester à la maison pour regarder la télé ou pour me reposer un peu. | 有时我喜欢待在家看电视，或稍微休息一下。 |
 | Mais, en général, je préfère sortir avec mes copains. | 但通常我更喜欢和朋友出去。 |
 
-> 课文来源：[[你好法语2-10.9.pdf#page=25|教材第 25 页：三个博客栏目及中文对照]]。页面上单独出现的手写 **les fruits de mer**（海鲜）不归入这些原句。
+> 课文来源：[[你好法语2-10.16.pdf#page=25|教材第 25 页：三个博客栏目及中文对照]]。页面上单独出现的手写 **les fruits de mer**（海鲜）不归入这些原句。
 
 ## 单词
 
@@ -74,7 +74,7 @@ Quentin 的博客分为 **mon portrait / mes goûts / mes activités**（个人�
 | **la pollution / le stress** | 污染 / 压力。 |
 | **se reposer / se lever tôt** | 休息 / 早起。 |
 
-> 来源：[[你好法语2-10.9.pdf#page=21|教材第 21 页：词汇及手写对照]]；[[你好法语A2第一单元.pdf#page=15|课件第 15 页：U1L3 词汇]]。
+> 来源：[[你好法语2-10.16.pdf#page=21|教材第 21 页：词汇及手写对照]]；[[你好法语A2第一单元.pdf#page=15|课件第 15 页：U1L3 词汇]]。
 
 ## 语法
 
@@ -90,7 +90,7 @@ Quentin 的博客分为 **mon portrait / mes goûts / mes activités**（个人�
 - **介词后**：**chez moi / avec toi / pour lui**。教材手写还提示 **Chacun travaille pour soi.**（每个人为自己工作）、**On préfère rester chez soi.**（人们更愿待在自己家）。
 - **c'est 后与省略回答**：**C'est moi. / Moi aussi !**
 
-> 来源：[[你好法语2-10.9.pdf#page=22|教材第 22 页：形式及用法]]；[[你好法语2-10.9.pdf#page=25|课文中的 Ma mère, elle / Lui, il]]。
+> 来源：[[你好法语2-10.16.pdf#page=22|教材第 22 页：形式及用法]]；[[你好法语2-10.16.pdf#page=25|课文中的 Ma mère, elle / Lui, il]]。
 
 ### 2. 国家、城市与介词
 
@@ -101,7 +101,7 @@ Quentin 的博客分为 **mon portrait / mes goûts / mes activités**（个人�
 
 先确定地名是**国家还是城市**，国家再看性数和首字母。教材博客直接给出 **à Toronto, au Canada**；**aux États-Unis** 是复数国家；**en France** 是阴性国家。城市 **Aix-en-Provence** 的连字符属于地名，前面用 **à**。
 
-> 来源：[[你好法语2-10.9.pdf#page=23|教材第 23 页：地名介词表]]；[[你好法语2-10.9.pdf#page=25|第 25 页：博客实例]]。
+> 来源：[[你好法语2-10.16.pdf#page=23|教材第 23 页：地名介词表]]；[[你好法语2-10.16.pdf#page=25|第 25 页：博客实例]]。
 
 ### 3. 频率与程度
 
@@ -115,7 +115,7 @@ Quentin 的博客分为 **mon portrait / mes goûts / mes activités**（个人�
 
 副词位置随所修饰对象变化：**on va souvent**（修饰动词，常放其后）；**vraiment magnifique**（修饰形容词，放其前）；否定 **ne… jamais** 包住变位动词。**deux fois par semaine** 表示“每周两次”。
 
-> 来源：[[你好法语2-10.9.pdf#page=23|教材第 23 页：副词表]]；[[你好法语2-10.9.pdf#page=25|第 25 页：课文用例]]。
+> 来源：[[你好法语2-10.16.pdf#page=23|教材第 23 页：副词表]]；[[你好法语2-10.16.pdf#page=25|第 25 页：课文用例]]。
 
 ## 快速复习
 
@@ -124,4 +124,4 @@ Quentin 的博客分为 **mon portrait / mes goûts / mes activités**（个人�
 - **住在多伦多、加拿大**：**à Toronto, au Canada**；**去美国**：**aux États-Unis**。
 - **经常 / 有时 / 从不**：**souvent / parfois / ne… jamais**。
 
-**教材来源：** [[你好法语2-10.9.pdf#page=21|第 21–25 页]] · **课件来源：** [[你好法语A2第一单元.pdf#page=15|第 15 页：U1L3]]
+**教材来源：** [[你好法语2-10.16.pdf#page=21|第 21–25 页]] · **课件来源：** [[你好法语A2第一单元.pdf#page=15|第 15 页：U1L3]]

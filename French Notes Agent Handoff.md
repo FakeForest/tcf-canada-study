@@ -68,7 +68,7 @@ Avoid collecting clear word-level cues only in a separate list when they can be 
 - When the user asks to extract from a textbook lesson, avoid practice/exercise pages unless explicitly requested.
 - For textbook lesson notes, prefer this review structure: `课文 + 单词 + 语法`.
 - The user may replace the textbook PDF with the newest annotated version after each French class. When this happens, read the latest synced PDF and update affected note wikilinks so they point to the current textbook PDF and correct page target.
-- After every textbook PDF update, scan every `French Textbook/A1/Lesson *.md` file, including frontmatter, page-level links, and the final source line. Replace all older textbook filenames with the newest annotated textbook filename while preserving each `#page=N` target. Verify that zero old textbook links remain before reporting completion.
+- After every textbook PDF update, scan every `French Textbook/<affected level>/Lesson *.md` file, including frontmatter, page-level links, and the final source line. Replace old filenames only within that level, preserve `#page=N` targets when pagination is unchanged, and verify them if it changed. Confirm zero obsolete textbook links remain in the affected level before reporting completion; never replace A1 links with an A2 textbook or vice versa.
 
 ## Obsidian Formatting Style
 
@@ -131,13 +131,13 @@ Preferred lesson structure:
 
 ### A2 Current Work
 
-- Current A2 textbook: `French Textbook/A2/你好法语2-10.9.pdf` (252 PDF pages). Preserve the earlier `你好法语2.pdf` as a source file, but link A2 lesson notes to the 10.9 edition.
-- Current A2 supplement: `French Textbook/A2/你好法语A2第一单元.pdf` (15 pages).
+- Current A2 textbook: `French Textbook/A2/你好法语2-10.16.pdf` (252 PDF pages). Preserve earlier `你好法语2.pdf` and `你好法语2-10.9.pdf` as source files, but link all A2 lesson notes to the 10.16 edition.
+- Current A2 supplements: `French Textbook/A2/你好法语A2第一单元.pdf` (15 pages) and `French Textbook/A2/你好法语A2第二单元.pdf` (19 pages).
 - A2 Lesson 1 is `French Textbook/A2/Lesson 01 - Je me presente.md`: textbook PDF pages 12-15, with both dialogues translated sentence by sentence; page 14 exercises excluded.
-- A2 notes now cover Lessons 1-5. Lesson 1 emphasizes Unit 1 slide pages 2-5 (vocabulary, quel, three question forms, inversion). Lesson 2 uses textbook pages 16-20 and visible U1L2 slide pages 6-13; slide page 14 is a listening/blank exercise, not a source for invented answers. Lesson 3 uses textbook pages 21-25 and visible U1L3 slide page 15. Lesson 4 uses textbook pages 26-29. Lesson 5 uses textbook pages 32-35 and starts Unit 2. No Unit 2 supplement has been supplied; do not invent its contents. Textbook page 30 is a Unit 1 review and page 31 opens Unit 2; neither is another lesson.
+- A2 notes now cover Lessons 1-9. Lesson 1 emphasizes Unit 1 slide pages 2-5 (vocabulary, quel, three question forms, inversion). Lesson 2 uses textbook pages 16-20 and visible U1L2 slide pages 6-13; slide page 14 is a listening/blank exercise, not a source for invented answers. Lesson 3 uses textbook pages 21-25 and visible U1L3 slide page 15. Lesson 4 uses textbook pages 26-29. Lesson 5 uses textbook pages 32-35 and Unit 2 slides 2-10 (relative pronouns, emphasis, demonstratives); Unit 2 slide page 6 has an incorrect `que` example for `parler de`, identified in the note. Lesson 6 uses textbook pages 36-39 and Unit 2 slides 11-14 (adjective position and simple demonstrative pronouns). Lesson 7 uses textbook pages 40-43 and Unit 2 slides 15-19 (conditionnel present and lequel). Lesson 8 uses textbook pages 44-47 (core reading on 44-45); no U2L8 slide exists. Textbook page 48 is a Unit 2 review and page 49 opens Unit 3; neither is another lesson. Lesson 9 starts Unit 3 at textbook pages 50-53, with `où` and `dont` from the textbook only; no Unit 3 supplement was supplied. Do not invent slide content or exercise answers.
 - Preserve A1's Chinese-first explanations, handwritten cues, review structure, CSS class, and page links for A2.
 - Keep textbook-version tracking separate by level. A2 updates must NEVER replace A1 textbook links. Sweep all lesson notes within the affected level after each new PDF, verify pagination against that edition, and check zero obsolete links within that level.
-- A1 links remain on `taxi_1学生用书9.23.pdf`; A2 links currently use `你好法语2-10.9.pdf`. Do not treat A2 as a newer edition of A1.
+- A1 links remain on `taxi_1学生用书9.23.pdf`; A2 links currently use `你好法语2-10.16.pdf`. Do not treat A2 as a newer edition of A1.
 - Use level-qualified paths when a note name becomes ambiguous across A1/A2. Shared Vocabulary and Pronunciation folders remain unchanged.
 - Only the project-root AGENTS.md is used; do not create per-level agent files.
 
