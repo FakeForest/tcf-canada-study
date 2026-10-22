@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 2
 lesson: 8
-source: "[[你好法语2-10.16.pdf]]"
+source: "[[你好法语2-10.21.pdf]]"
 pages: 44-47
 ---
 
@@ -26,7 +26,7 @@ pages: 44-47
 | Quelles sont leurs préoccupations ou leurs rêves dans la vie ? | 他们生活中担心什么、梦想什么？ |
 | Enquête. | 下面是一项调查。 |
 
-> 来源：[[你好法语2-10.16.pdf#page=44|教材第 44 页：引言与手写/印刷注释]]。
+> 来源：[[你好法语2-10.21.pdf#page=44|教材第 44 页：引言与手写/印刷注释]]。
 
 ### 2. Simon，16 岁，巴黎第 20 区
 
@@ -38,7 +38,7 @@ pages: 44-47
 | **Mes préoccupations : le racisme, le chômage.** | 担心种族主义和失业问题。 |
 | **Mon rêve : faire un jour le marathon de New York.** | 梦想有朝一日参加纽约马拉松。 |
 
-> 来源：[[你好法语2-10.16.pdf#page=44|教材第 44 页：Simon 肖像]]。
+> 来源：[[你好法语2-10.21.pdf#page=44|教材第 44 页：Simon 肖像]]。
 
 ### 3. Sarah、Félix 和 Estelle
 
@@ -72,7 +72,7 @@ pages: 44-47
 | **Mes préoccupations : les problèmes d'argent de mes parents, le lycée.** | 担忧父母的经济问题和高中学习。 |
 | **Mon rêve : trouver l'amour.** | 梦想找到爱情。 |
 
-> 来源：[[你好法语2-10.16.pdf#page=45|教材第 45 页：三位青少年的肖像、词汇与 rêve 手写提示]]。
+> 来源：[[你好法语2-10.21.pdf#page=45|教材第 45 页：三位青少年的肖像、词汇与 rêve 手写提示]]。
 
 ## 单词
 
@@ -88,7 +88,7 @@ pages: 44-47
 | **la science-fiction / le rap** | 科幻 / 说唱。|
 | **surfer sur Internet / faire le tour du monde** | 上网 / 环游世界。|
 
-> 来源：[[你好法语2-10.16.pdf#page=45|教材第 45 页：词汇表与手写提示]]。
+> 来源：[[你好法语2-10.21.pdf#page=45|教材第 45 页：词汇表与手写提示]]。
 
 ## 语法
 
@@ -102,13 +102,13 @@ pages: 44-47
 - **ceux qui sont au collège / ceux qui vont au lycée**：**ceux** 代替复数“那些人”，后面 **qui + 动词** 限定是哪一群；联动第 6 课的简单指示代词。
 - **les choses que j'aime**：我喜欢的东西；*je* 是从句主语，**que** 指前面的 *choses* 并作 *aime* 的直接宾语。
 
-> 来源：[[你好法语2-10.16.pdf#page=44|教材第 44 页：引言中 qui / ceux qui]]；[[你好法语2-10.16.pdf#page=45|第 45 页：四份肖像中的 que]]。
+> 来源：[[你好法语2-10.21.pdf#page=44|教材第 44 页：引言中 qui / ceux qui]]；[[你好法语2-10.21.pdf#page=45|第 45 页：四份肖像中的 que]]。
 
 ### 3. 不要把 un jour 只译成“今天”
 
 **faire un jour le marathon de New York** 中 **un jour** 指“有朝一日”。教材注释还给出过去语境里的“某一天”用法，需结合时态判断。**entre filles et garçons / entre ville et campagne / entre riches et pauvres** 泛指类别，名词前不加冠词；教材把这一点特别标出。
 
-> 来源：[[你好法语2-10.16.pdf#page=44|教材第 44 页：entre 与 un jour 的注释]]。
+> 来源：[[你好法语2-10.21.pdf#page=44|教材第 44 页：entre 与 un jour 的注释]]。
 
 ## 快速复习
 
@@ -116,4 +116,4 @@ pages: 44-47
 - **ceux qui…** = 那些……的人；**les choses que j'aime** = 我喜欢的事物。
 - **un jour** 在 Simon 的梦想里是“有朝一日”。
 
-**教材来源：** [[你好法语2-10.16.pdf#page=44|第 44–47 页；核心阅读在 44–45 页]]。
+**教材来源：** [[你好法语2-10.21.pdf#page=44|第 44–47 页；核心阅读在 44–45 页]]。

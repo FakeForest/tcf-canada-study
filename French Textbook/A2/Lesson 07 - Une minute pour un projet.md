@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 2
 lesson: 7
-source: "[[你好法语2-10.16.pdf]]"
+source: "[[你好法语2-10.21.pdf]]"
 supplement: "[[你好法语A2第二单元.pdf]]"
 pages: 40-43
 ---
@@ -25,7 +25,7 @@ pages: 40-43
 | Une minute pour un projet. Tous les jours à 19 heures. | “一分钟谈一个计划”，每天 19 点。 |
 | Flyrock, la radio qui vous écoute. | Flyrock，倾听您的电台。**qui** 是关系从句的主语。 |
 
-> 来源：[[你好法语2-10.16.pdf#page=40|教材第 40 页：电台广告与词汇表]]。
+> 来源：[[你好法语2-10.21.pdf#page=40|教材第 40 页：电台广告与词汇表]]。
 
 ### 2. 晚间两则计划
 
@@ -46,7 +46,7 @@ pages: 40-43
 | Alors, si ce projet vous intéresse, pourriez-vous, s'il vous plaît, envoyer tous vos dons à l'adresse suivante : Projets de Noël, Lycée Sainte-Marie, 3 rue d'Alger, 64000 Pau. | 如果您对这个计划感兴趣，能否请您将捐赠寄到文中的“圣诞计划”地址？ |
 | Et surtout joyeux Noël à tous ! | 最后，祝大家圣诞快乐！ |
 
-> 来源：[[你好法语2-10.16.pdf#page=43|教材第 43 页：两则原文及中文对照]]。电话号码与地址是教材原文的历史联系资料，不应当作目前有效的联系方式。
+> 来源：[[你好法语2-10.21.pdf#page=43|教材第 43 页：两则原文及中文对照]]。电话号码与地址是教材原文的历史联系资料，不应当作目前有效的联系方式。
 
 ## 单词
 
@@ -62,7 +62,7 @@ pages: 40-43
 | **laisser une minute à quelqu'un / passer un message à la radio** | 给某人留一分钟 / 在广播里播出一条消息。|
 | **joyeux Noël / l'adresse suivante** | 圣诞快乐 / 下列地址；*suivante* 随阴性名词 *adresse*。|
 
-> 来源：[[你好法语2-10.16.pdf#page=40|教材第 40 页：词汇与手写提示]]；[[你好法语A2第二单元.pdf#page=15|第二单元课件第 15–16 页：常见搭配]]。
+> 来源：[[你好法语2-10.21.pdf#page=40|教材第 40 页：词汇与手写提示]]；[[你好法语A2第二单元.pdf#page=15|第二单元课件第 15–16 页：常见搭配]]。
 
 ## 语法
 
@@ -81,7 +81,7 @@ pages: 40-43
 
 不规则词干沿用将来时词干，如 **être → ser- → serait**、**avoir → aur- → aurais**、**aller → ir- → irais**、**faire → fer- → feriez**、**pouvoir → pourr- → pourriez**、**venir → viendr- → viendrait**、**savoir → saur- → saurais**、**voir → verr- → verrions**。*falloir* 和 *pleuvoir* 在例句里只用第三人称单数：**il faudrait / il pleuvrait**。变化重点在词尾，不要误把条件式等同于“过去发生的事”。
 
-> 来源：[[你好法语2-10.16.pdf#page=41|教材第 41 页：构成及 aimer 变位]]；[[你好法语A2第二单元.pdf#page=18|第二单元课件第 18 页：不规则动词示例]]。
+> 来源：[[你好法语2-10.21.pdf#page=41|教材第 41 页：构成及 aimer 变位]]；[[你好法语A2第二单元.pdf#page=18|第二单元课件第 18 页：不规则动词示例]]。
 
 ### 2. 它在本课表达什么
 
@@ -96,7 +96,7 @@ pages: 40-43
 
 课文 **Si vous pouvez aider…** 是“如果您能帮助……”的条件从句，源句在 *si* 后用的是直陈式现在时 **pouvez**，不是 *pourriez*；别因主句谈计划就把所有动词都改成条件式。
 
-> 来源：[[你好法语2-10.16.pdf#page=41|教材第 41 页：条件式用法]]；[[你好法语2-10.16.pdf#page=43|第 43 页：愿望、礼貌请求的课文用例]]；[[你好法语A2第二单元.pdf#page=17|第二单元课件第 17 页：多种语气对照]]。
+> 来源：[[你好法语2-10.21.pdf#page=41|教材第 41 页：条件式用法]]；[[你好法语2-10.21.pdf#page=43|第 43 页：愿望、礼貌请求的课文用例]]；[[你好法语A2第二单元.pdf#page=17|第二单元课件第 17 页：多种语气对照]]。
 
 ### 3. 疑问代词 lequel：从一组里选哪一个
 
@@ -107,7 +107,7 @@ pages: 40-43
 
 **quel / quelle / quels / quelles** 是疑问形容词，后面跟名词：**Quelle radio ?**；**laquelle** 直接代替这个名词：**Laquelle ?**。例如 **Laquelle de ces robes choisis-tu ?**（这些裙子里你选哪条？）和 **J'ai beaucoup de disques. Lesquels préfères-tu ?**（我有很多唱片，你更喜欢哪些？）。形式的性、数跟被代替的名词一致。对比第 6 课的 *celui* 是“那个/这一个”，*lequel* 是“哪一个”。
 
-> 来源：[[你好法语2-10.16.pdf#page=41|教材第 41 页：四种形式]]；[[你好法语2-10.16.pdf#page=42|第 42 页：选择用法]]；[[你好法语A2第二单元.pdf#page=19|第二单元课件第 19 页：quel 与 lequel 对照]]。
+> 来源：[[你好法语2-10.21.pdf#page=41|教材第 41 页：四种形式]]；[[你好法语2-10.21.pdf#page=42|第 42 页：选择用法]]；[[你好法语A2第二单元.pdf#page=19|第二单元课件第 19 页：quel 与 lequel 对照]]。
 
 ### 4. 数量与位置的小提醒
 
@@ -116,7 +116,7 @@ pages: 40-43
 - **en banlieue parisienne / dans les Pyrénées**：课文原有的地点搭配；手写把它与 *en centre-ville / à la campagne* 并记。
 - **seul** 的位置会影响语义：**une seule radio** 表“唯一的一家电台”；**un homme seul** 表“一个人、独自一人的男人”。
 
-> 来源：[[你好法语2-10.16.pdf#page=40|教材第 40 页：广告及手写提示]]；[[你好法语2-10.16.pdf#page=43|第 43 页：assez 用法]]；[[你好法语A2第二单元.pdf#page=16|第二单元课件第 16 页：seul 与地点表达]]。
+> 来源：[[你好法语2-10.21.pdf#page=40|教材第 40 页：广告及手写提示]]；[[你好法语2-10.21.pdf#page=43|第 43 页：assez 用法]]；[[你好法语A2第二单元.pdf#page=16|第二单元课件第 16 页：seul 与地点表达]]。
 
 ## 快速复习
 
@@ -124,4 +124,4 @@ pages: 40-43
 - **pouvoir → pourriez-vous… ?**：礼貌地提出请求。
 - **Quelle radio ? → Laquelle ?**：前者带名词，后者代名词。
 
-**教材来源：** [[你好法语2-10.16.pdf#page=40|第 40–43 页]]；**课件：** [[你好法语A2第二单元.pdf#page=15|第 15–19 页]]。
+**教材来源：** [[你好法语2-10.21.pdf#page=40|第 40–43 页]]；**课件：** [[你好法语A2第二单元.pdf#page=15|第 15–19 页]]。

@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 2
 lesson: 6
-source: "[[你好法语2-10.16.pdf]]"
+source: "[[你好法语2-10.21.pdf]]"
 supplement: "[[你好法语A2第二单元.pdf]]"
 pages: 36-39
 ---
@@ -20,7 +20,7 @@ pages: 36-39
 
 教材广告并列 **journée / soirée**（白天 / 晚会）和 **cool / pas cool**（时髦或轻松 / 不那么时髦），让人比较不同衣着给人的印象；这里是服饰图片与短标签，不是待补写的对话。手写提示 **le sentiment d'appartenance** 指“归属感”，与下面电台文本的 **appartenance à un groupe** 联系起来记。
 
-> 来源：[[你好法语2-10.16.pdf#page=36|教材第 36 页：服饰广告、词汇与手写提示]]。
+> 来源：[[你好法语2-10.21.pdf#page=36|教材第 36 页：服饰广告、词汇与手写提示]]。
 
 ### 2. 电台谈法国人的穿衣习惯
 
@@ -38,7 +38,7 @@ pages: 36-39
 | Pour eux, c'est surtout la mode des tatouages et des piercings, pour montrer leur personnalité. | 对他们而言，尤其流行纹身和穿孔，以表达个性。 |
 | Eh oui ! Merci, Brigitte. Et à demain ! Sud Radio, il est midi. | 是这样！谢谢布里吉特，明天见！这里是南方电台，现在是中午十二点。 |
 
-> 来源：[[你好法语2-10.16.pdf#page=39|教材第 39 页：完整课文与中文对照]]。
+> 来源：[[你好法语2-10.21.pdf#page=39|教材第 39 页：完整课文与中文对照]]。
 
 ## 单词
 
@@ -54,7 +54,7 @@ pages: 36-39
 | **spécialement / partout / juste** | 专门地 / 到处 / 刚好、仅仅（依语境）。|
 | **la différence / changer de style** | 差别 / 改变风格。|
 
-> 来源：[[你好法语2-10.16.pdf#page=36|教材第 36 页：词汇表与批注]]；[[你好法语A2第二单元.pdf#page=11|第二单元课件第 11 页：动词搭配]]。
+> 来源：[[你好法语2-10.21.pdf#page=36|教材第 36 页：词汇表与批注]]；[[你好法语A2第二单元.pdf#page=11|第二单元课件第 11 页：动词搭配]]。
 
 ## 语法
 
@@ -72,7 +72,7 @@ pages: 36-39
 
 课件句 **Le Roi Soleil est un grand homme qui n'est pas grand.**（太阳王是个伟人，但身材并不高。）把两种 *grand* 的意义摆在一起。
 
-> 来源：[[你好法语2-10.16.pdf#page=37|教材第 37 页：形容词位置与意义]]；[[你好法语A2第二单元.pdf#page=12|第二单元课件第 12 页：前后位置的分类与对比]]。
+> 来源：[[你好法语2-10.21.pdf#page=37|教材第 37 页：形容词位置与意义]]；[[你好法语A2第二单元.pdf#page=12|第二单元课件第 12 页：前后位置的分类与对比]]。
 
 ### 2. 简单指示代词：代替已知名词
 
@@ -93,7 +93,7 @@ pages: 36-39
 
 对比第 5 课的 **celui-ci / celui-là**：带 *-ci/-là* 可以独立区分“这个/那个”；这里的简单形式靠后续补足语或关系从句来认定“哪一个”。*qui* 在从句中作主语，*que* 作直接宾语。
 
-> 来源：[[你好法语2-10.16.pdf#page=37|教材第 37 页：简单指示代词]]；[[你好法语A2第二单元.pdf#page=13|第二单元课件第 13 页：de、qui、que 三种限定方式]]；[[你好法语2-10.16.pdf#page=39|第 39 页：课文中的 ceux / celles]]。
+> 来源：[[你好法语2-10.21.pdf#page=37|教材第 37 页：简单指示代词]]；[[你好法语A2第二单元.pdf#page=13|第二单元课件第 13 页：de、qui、que 三种限定方式]]；[[你好法语2-10.21.pdf#page=39|第 39 页：课文中的 ceux / celles]]。
 
 ### 3. 课文里的搭配
 
@@ -102,7 +102,7 @@ pages: 36-39
 - **quelque chose de nouveau / quelqu'un d'intéressant**：不定代词后用 **de + 形容词阳性单数**。
 - **chez les jeunes**：在年轻人当中；不是“去年轻人家”。
 
-> 来源：[[你好法语2-10.16.pdf#page=39|教材第 39 页：课文下注释]]；[[你好法语A2第二单元.pdf#page=11|第二单元课件第 11 页：intéresser 对照及 de + 形容词]]。
+> 来源：[[你好法语2-10.21.pdf#page=39|教材第 39 页：课文下注释]]；[[你好法语A2第二单元.pdf#page=11|第二单元课件第 11 页：intéresser 对照及 de + 形容词]]。
 
 ## 快速复习
 
@@ -110,4 +110,4 @@ pages: 36-39
 - 简单形式要有交代：**celui de huit heures / celui qui part à huit heures**。
 - **Ce livre m'intéresse / Je m'intéresse à ce livre**：换主语时搭配也要跟着换。
 
-**教材来源：** [[你好法语2-10.16.pdf#page=36|第 36–39 页]]；**课件：** [[你好法语A2第二单元.pdf#page=11|第 11–14 页]]。
+**教材来源：** [[你好法语2-10.21.pdf#page=36|第 36–39 页]]；**课件：** [[你好法语A2第二单元.pdf#page=11|第 11–14 页]]。

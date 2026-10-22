@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 2
 lesson: 5
-source: "[[你好法语2-10.16.pdf]]"
+source: "[[你好法语2-10.21.pdf]]"
 supplement: "[[你好法语A2第二单元.pdf]]"
 pages: 32-35
 ---
@@ -52,7 +52,7 @@ pages: 32-35
 | Et pour elle ? | 那她自己呢？ |
 | « Vous savez, mon plaisir, c'est de rester chez moi, tranquille. Ça ne coûte pas cher, ça ! » | “你知道，我的乐趣就是安静地待在家里。这不怎么花钱！” |
 
-> 来源：[[你好法语2-10.16.pdf#page=32|教材第 32 页：三位居民的人物肖像与手写批注]]。
+> 来源：[[你好法语2-10.21.pdf#page=32|教材第 32 页：三位居民的人物肖像与手写批注]]。
 
 ### 2. Armelle 的采访
 
@@ -76,7 +76,7 @@ pages: 32-35
 | Non, je suis née en Bretagne. | 不是，我出生在布列塔尼。 |
 | J'y retourne souvent mais je ne voudrais pas vivre là-bas. | 我常回那里，但不想在那里生活。**y** 指布列塔尼。 |
 
-> 来源：[[你好法语2-10.16.pdf#page=35|教材第 35 页：采访原文和中文对照]]；同页练习与发音题不抄写。
+> 来源：[[你好法语2-10.21.pdf#page=35|教材第 35 页：采访原文和中文对照]]；同页练习与发音题不抄写。
 
 ## 单词
 
@@ -95,7 +95,7 @@ pages: 32-35
 | **proposer / le portrait** | 提供、介绍 / 人物肖像。 |
 | **ça me va / ça va avec…** | 这适合我 / 这与……相配；教材手写提醒两种搭配不同。 |
 
-> 来源：[[你好法语2-10.16.pdf#page=32|教材第 32 页：文章与手写批注]]；[[你好法语2-10.16.pdf#page=33|第 33 页：词汇表及 payer 的变位]]。
+> 来源：[[你好法语2-10.21.pdf#page=32|教材第 32 页：文章与手写批注]]；[[你好法语2-10.21.pdf#page=33|第 33 页：词汇表及 payer 的变位]]。
 
 ## 语法
 
@@ -113,7 +113,7 @@ pages: 32-35
 > [!warning] 课件原句笔误
 > 课件第 6 页把 **J'ai rencontré un homme que tu parles souvent** 当成 *que* 的例子，但 **parler de quelqu'un** 需要 **de**：应写 **J'ai rencontré un homme dont tu parles souvent**。不能由“从句有主语”就直接选 *que*；还须看动词是否带介词。*dont* 在第 9 课再详细学习。
 
-> 来源：[[你好法语2-10.16.pdf#page=34|教材第 34 页：关系代词与例句]]；[[你好法语2-10.16.pdf#page=32|第 32 页：文章中 qui / qu' 的用例]]；[[你好法语A2第二单元.pdf#page=4|第二单元课件第 4–6 页：从句主语/宾语与原件笔误]]。
+> 来源：[[你好法语2-10.21.pdf#page=34|教材第 34 页：关系代词与例句]]；[[你好法语2-10.21.pdf#page=32|第 32 页：文章中 qui / qu' 的用例]]；[[你好法语A2第二单元.pdf#page=4|第二单元课件第 4–6 页：从句主语/宾语与原件笔误]]。
 
 ### 2. c'est… que：突出某一部分
 
@@ -127,7 +127,7 @@ pages: 32-35
 
 课件还将同一句话换焦点：**Ma mère aime bien la chanteuse Céline.** → **C'est ma mère qui aime bien la chanteuse Céline.**（强调“是我妈妈”）/ **C'est la chanteuse Céline que ma mère aime bien.**（强调“喜欢的是歌手 Céline”）。强调**主语**用 **c'est… qui**，强调**宾语、地点、时间**等用 **c'est… que**。例如 **C'est à 9 heures du matin que je suis sorti de chez lui.**（我正是在上午九点离开他家的。）
 
-> 来源：[[你好法语2-10.16.pdf#page=34|教材第 34 页：强调句例句]]；[[你好法语A2第二单元.pdf#page=8|第二单元课件第 8–9 页：强调主语、宾语和时间]]。
+> 来源：[[你好法语2-10.21.pdf#page=34|教材第 34 页：强调句例句]]；[[你好法语A2第二单元.pdf#page=8|第二单元课件第 8–9 页：强调主语、宾语和时间]]。
 
 ### 3. celui / celle / ceux / celles：指示代词
 
@@ -140,7 +140,7 @@ pages: 32-35
 
 课件把 **指示形容词 + 名词** 和 **指示代词**并列：**ce chat-ci / ce chat-là → celui-ci / celui-là**；**cette chambre-ci / cette chambre-là → celle-ci / celle-là**；复数还有 **ceux-ci / ceux-là**、**celles-ci / celles-là**。指示代词的性、数跟**被替代的名词**一致，不是跟说话人的性别一致。第 6 课会进一步学习不加 *-ci/-là* 的形式如何接 **de** 或关系从句。
 
-> 来源：[[你好法语2-10.16.pdf#page=34|教材第 34 页：指示代词表及例句]]；[[你好法语2-10.16.pdf#page=32|第 32 页：celui-ci 在文章中的指代]]；[[你好法语A2第二单元.pdf#page=10|第二单元课件第 10 页：-ci / -là 对照]]。
+> 来源：[[你好法语2-10.21.pdf#page=34|教材第 34 页：指示代词表及例句]]；[[你好法语2-10.21.pdf#page=32|第 32 页：celui-ci 在文章中的指代]]；[[你好法语A2第二单元.pdf#page=10|第二单元课件第 10 页：-ci / -là 对照]]。
 
 ### 4. 词形与手写提醒
 
@@ -148,7 +148,7 @@ pages: 32-35
 - **payer** 现在时：**je paie, tu paies, il/elle paie, nous payons, vous payez, ils/elles paient**；保留 nous / vous 中的 **y**。
 - **J'y retourne souvent**：**y** 指“回到那里”，这里是布列塔尼。
 
-> 来源：[[你好法语2-10.16.pdf#page=32|教材第 32 页：否定与搭配批注]]；[[你好法语2-10.16.pdf#page=33|第 33 页：payer 变位]]；[[你好法语2-10.16.pdf#page=35|第 35 页：采访]]。
+> 来源：[[你好法语2-10.21.pdf#page=32|教材第 32 页：否定与搭配批注]]；[[你好法语2-10.21.pdf#page=33|第 33 页：payer 变位]]；[[你好法语2-10.21.pdf#page=35|第 35 页：采访]]。
 
 ## 快速复习
 
@@ -157,4 +157,4 @@ pages: 32-35
 - **强调地点**：**C'est dans ce quartier qu'**il est né。
 - **指“这个人”**：**celui-ci**；**指“这个女性/阴性事物”**：**celle-ci**。
 
-**教材来源：** [[你好法语2-10.16.pdf#page=32|第 32–35 页]]
+**教材来源：** [[你好法语2-10.21.pdf#page=32|第 32–35 页]]

@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 1
 lesson: 2
-source: "[[你好法语2-10.16.pdf]]"
+source: "[[你好法语2-10.21.pdf]]"
 supplement: "[[你好法语A2第一单元.pdf]]"
 pages: 16-20
 supplement_pages: 6-14
@@ -31,7 +31,7 @@ supplement_pages: 6-14
 | Elle va bientôt jouer dans Les Sabines, le prochain film d'Yvan Attal. | 她不久后将出演伊万·阿达勒的下一部电影《Les Sabines》。 |
 | Passionnée de mode, Charlotte a fait en 2003 de la publicité pour les vêtements du créateur Gérard Darel et va souvent aux défilés de Haute Couture. | 夏洛特热爱时尚；她曾于 2003 年为设计师热拉尔·达雷尔的服装拍广告，也常参加高级定制服装秀。 |
 
-> 来源：[[你好法语2-10.16.pdf#page=16|教材第 16 页：人物介绍与手写批注]]。**vient de sortir** 是“刚发行”，**va bientôt jouer** 是教材写作当时的“即将出演”，不要当作现在的动态。
+> 来源：[[你好法语2-10.21.pdf#page=16|教材第 16 页：人物介绍与手写批注]]。**vient de sortir** 是“刚发行”，**va bientôt jouer** 是教材写作当时的“即将出演”，不要当作现在的动态。
 
 ### 2. 三代粉丝的谈话
 
@@ -60,7 +60,7 @@ supplement_pages: 6-14
 | Alors moi, je viens d'écouter l'album toute la journée à la maison et il est vraiment bien ! | 可我刚在家听了这张专辑一整天，真的很好听！ |
 | Tu as raison, mamie, il est vraiment super cet album ! | 外婆，你说得对，这张专辑真棒！ |
 
-> 来源：[[你好法语2-10.16.pdf#page=20|教材第 20 页：访谈文字与中文对照]]。**franco-italien** 表示法意之间的关系；手写类比 **la relation sino-française / franco-chinoise**。
+> 来源：[[你好法语2-10.21.pdf#page=20|教材第 20 页：访谈文字与中文对照]]。**franco-italien** 表示法意之间的关系；手写类比 **la relation sino-française / franco-chinoise**。
 
 ## 单词
 
@@ -82,7 +82,7 @@ supplement_pages: 6-14
 | **revoir** | 再看、重看；**venir de revoir un film**，刚重看一部电影。 |
 | **bien / vraiment bien** | 好 / 真的很好；**bien** 在这里修饰对专辑的评价。 |
 
-> 来源：[[你好法语2-10.16.pdf#page=16|教材第 16 页：词汇与手写批注]]；[[你好法语A2第一单元.pdf#page=6|课件第 6 页：U1L2 词汇]]。
+> 来源：[[你好法语2-10.21.pdf#page=16|教材第 16 页：词汇与手写批注]]；[[你好法语A2第一单元.pdf#page=6|课件第 6 页：U1L2 词汇]]。
 
 ## 语法
 
@@ -97,7 +97,7 @@ supplement_pages: 6-14
 
 代词的位置看原形动词：**Je viens de lui offrir un cadeau**（我刚送给他/她一份礼物），**Il va m'acheter une nouvelle voiture**（他将给我买一辆新车），**Elle va en parler avec ses amis**（她将和朋友谈这件事）。自反代词也跟原形动词：**Elle va se marier dans trois ans**。
 
-> 来源：[[你好法语2-10.16.pdf#page=17|教材第 17 页：基本结构]]；[[你好法语2-10.16.pdf#page=18|教材第 18 页：过去参照点及代词位置]]；[[你好法语A2第一单元.pdf#page=7|课件第 7 页：U1L2]]。
+> 来源：[[你好法语2-10.21.pdf#page=17|教材第 17 页：基本结构]]；[[你好法语2-10.21.pdf#page=18|教材第 18 页：过去参照点及代词位置]]；[[你好法语A2第一单元.pdf#page=7|课件第 7 页：U1L2]]。
 
 ### 2. tout：先判断词性，再做性数配合
 
@@ -113,7 +113,7 @@ supplement_pages: 6-14
 
 **否定范围要看清：**教材的 **Tous les étudiants ne mangent pas du poisson** 表示“并非所有学生都吃鱼”，不要直接理解为“没有学生吃鱼”。**tout le monde** 为“所有人”，语法上搭配单数动词：**tout le monde est amoureux d'elle**。
 
-> 来源：[[你好法语2-10.16.pdf#page=18|教材第 18 页：tout 的词性、配合与例句]]；[[你好法语A2第一单元.pdf#page=8|课件第 8 页：形容词]]；[[你好法语A2第一单元.pdf#page=10|课件第 10 页：代词]]；[[你好法语A2第一单元.pdf#page=12|课件第 12 页：副词]]。课件第 14 页为听力/填空，不补造答案。
+> 来源：[[你好法语2-10.21.pdf#page=18|教材第 18 页：tout 的词性、配合与例句]]；[[你好法语A2第一单元.pdf#page=8|课件第 8 页：形容词]]；[[你好法语A2第一单元.pdf#page=10|课件第 10 页：代词]]；[[你好法语A2第一单元.pdf#page=12|课件第 12 页：副词]]。课件第 14 页为听力/填空，不补造答案。
 
 ## 快速复习
 
@@ -121,4 +121,4 @@ supplement_pages: 6-14
 - **马上要做**：Elle **va sortir** un film. / 她将推出一部电影。
 - **所有歌曲**：**toutes les chansons**；**一整天**：**toute la journée**；**大家**：**tout le monde**。
 
-**教材来源：** [[你好法语2-10.16.pdf#page=16|第 16–20 页]] · **课件来源：** [[你好法语A2第一单元.pdf#page=6|第 6–13 页：U1L2]]
+**教材来源：** [[你好法语2-10.21.pdf#page=16|第 16–20 页]] · **课件来源：** [[你好法语A2第一单元.pdf#page=6|第 6–13 页：U1L2]]
