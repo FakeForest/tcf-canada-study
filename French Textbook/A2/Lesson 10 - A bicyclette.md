@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 3
 lesson: 10
-source: "[[你好法语2-10.21.pdf]]"
+source: "[[你好法语2-10.30.pdf]]"
 pages: 54-57
 ---
 
@@ -28,7 +28,7 @@ pages: 54-57
 
 书中还列出当时的订阅价格：**1 an : 29 € ; 7 jours : 5 € ; 1 jour : 1 €**。使用价格写作 **1re demi-heure : gratuite ; 2e demi-heure : 1 € ; 3e demi-heure : 2 € ; à partir de 2 heures : 4 € par demi-heure supplémentaire**。这些数字只用来读懂法语价目表，不能当作今天的收费。
 
-> 来源：[[你好法语2-10.21.pdf#page=54|教材第 54 页：Vélib' 资料与注释]]；[[你好法语A2第三单元.pdf#page=7|课件第 7 页：Ça marche 的对照]]。
+> 来源：[[你好法语2-10.30.pdf#page=54|教材第 54 页：Vélib' 资料与注释]]；[[你好法语A2第三单元.pdf#page=7|课件第 7 页：Ça marche 的对照]]。
 
 ## 单词
 
@@ -45,7 +45,7 @@ pages: 54-57
 | **une dizaine de / une vingtaine de / une centaine de** | 约十个、约二十个、约一百个；课件用来区分精确数词与约数名词。 |
 | **fatigué(e) / fatigant(e)** | 感到累的／令人疲惫的；课件对比 **Je suis fatigué.** 与 **un travail fatigant**。 |
 
-> 来源：[[你好法语2-10.21.pdf#page=54|教材第 54 页：使用说明、数量词注释]]；[[你好法语2-10.21.pdf#page=55|第 55 页：词汇表及手写批注]]；[[你好法语A2第三单元.pdf#page=8|课件第 8 页：词汇扩展]]。课件第 7 页还列出 *-ation / -er* 词族，如 **l'organisation / organiser**，可按需联想，不是课文叙述。
+> 来源：[[你好法语2-10.30.pdf#page=54|教材第 54 页：使用说明、数量词注释]]；[[你好法语2-10.30.pdf#page=55|第 55 页：词汇表及手写批注]]；[[你好法语A2第三单元.pdf#page=8|课件第 8 页：词汇扩展]]。课件第 7 页还列出 *-ation / -er* 词族，如 **l'organisation / organiser**，可按需联想，不是课文叙述。
 
 ## 语法
 
@@ -71,7 +71,7 @@ pages: 54-57
 
 教材提示：**pire**、**moindre** 常用于较抽象的“坏／小”，具体东西的大小可用 **plus petit(e)**；不要把两套形式机械地互换。
 
-> 来源：[[你好法语2-10.21.pdf#page=56|教材第 56 页：形容词比较级、特殊形式及提示]]；[[你好法语A2第三单元.pdf#page=9|课件第 9 页：基本对比]]；[[你好法语A2第三单元.pdf#page=11|第 11–12 页：比较对象与特殊形式]]。
+> 来源：[[你好法语2-10.30.pdf#page=56|教材第 56 页：形容词比较级、特殊形式及提示]]；[[你好法语A2第三单元.pdf#page=9|课件第 9 页：基本对比]]；[[你好法语A2第三单元.pdf#page=11|第 11–12 页：比较对象与特殊形式]]。
 
 ### 2. 副词、程度与数量：看清比较的是什么
 
@@ -83,7 +83,7 @@ pages: 54-57
 
 因此 **Il mange plus vite que moi**（吃得更快）与 **Il mange plus que moi**（吃得更多）不同；名词数量要保留 **de**。*bien* 的“更好”是 **mieux**：**Elle chante mieux que lui.**（她比他唱得好）。课件还将 **beaucoup → plus**、**peu → moins** 作为程度/数量的比较来记；不能写成 *plus bien*。**Marche aussi lentement que possible.** 表示“尽可能走慢一点”。
 
-> 来源：[[你好法语2-10.21.pdf#page=57|教材第 57 页：副词、beaucoup/peu 的比较级]]；[[你好法语A2第三单元.pdf#page=10|课件第 10 页：方式、程度、数量的区分]]；[[你好法语A2第三单元.pdf#page=13|第 13 页：mieux]]。
+> 来源：[[你好法语2-10.30.pdf#page=57|教材第 57 页：副词、beaucoup/peu 的比较级]]；[[你好法语A2第三单元.pdf#page=10|课件第 10 页：方式、程度、数量的区分]]；[[你好法语A2第三单元.pdf#page=13|第 13 页：mieux]]。
 
 ### 3. 主有代词：不再重复那个名词
 
@@ -100,7 +100,7 @@ pages: 54-57
 
 **Mon jardin est plus beau que le tien (= ton jardin).** 我的花园比你的漂亮。**La chambre de Paul est aussi propre que la mienne (= ma chambre).** 保罗的房间和我的一样干净。课件用 **Leur fille est jolie, la nôtre est plus jolie.**、**Son sac est noir, et le mien est rouge.** 帮助从 *leur fille / notre fille*、*son sac / mon sac* 过渡到代词。课件第 14 页的上方表格是 **mon/ma/mes** 等**主有形容词**，不是主有代词变位表；完整的主有代词形式以教材第 57 页为准。
 
-> 来源：[[你好法语2-10.21.pdf#page=57|教材第 57 页：主有代词完整表与例句]]；[[你好法语A2第三单元.pdf#page=14|课件第 14 页：从主有形容词到主有代词]]。
+> 来源：[[你好法语2-10.30.pdf#page=57|教材第 57 页：主有代词完整表与例句]]；[[你好法语A2第三单元.pdf#page=14|课件第 14 页：从主有形容词到主有代词]]。
 
 ## 快速复习
 
@@ -110,4 +110,4 @@ pages: 54-57
 - **mon vélo → le mien**，**ma chambre → la mienne**：主有代词带定冠词，并随被代替的名词变形。
 - Vélib' 文中的价格和站点数只作为教材语言材料复习。
 
-**教材来源：** [[你好法语2-10.21.pdf#page=54|第 54–57 页]]。**课件来源：** [[你好法语A2第三单元.pdf#page=7|U3L10，第 7–14 页]]；课件第 15–17 页属 **U3L11**，第 18 页是听力空表，本课不提前纳入。
+**教材来源：** [[你好法语2-10.30.pdf#page=54|第 54–57 页]]。**课件来源：** [[你好法语A2第三单元.pdf#page=7|U3L10，第 7–14 页]]；课件第 15–17 页属 **U3L11**，第 18 页是听力空表，本课不提前纳入。
