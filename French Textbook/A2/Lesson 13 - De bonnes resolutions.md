@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 4
 lesson: 13
-source: "[[你好法语2-10.30.pdf]]"
+source: "[[你好法语2-11.6.pdf]]"
 pages: 72-76
 ---
 
@@ -32,7 +32,7 @@ pages: 72-76
 | Avoir une activité sportive, c'est important pour contrôler le stress. | 进行体育活动对于控制压力很重要。 |
 | Ce qu'il faut faire avec Boris Beck. | 与 Boris Beck 一起了解该做些什么。 |
 
-> 来源：[[你好法语2-10.30.pdf#page=72|教材第 72 页：五项决定]]。原文是 2009 年杂志材料；文中的 p.17–21 是杂志页码，不是教材 PDF 页码。
+> 来源：[[你好法语2-11.6.pdf#page=72|教材第 72 页：五项决定]]。原文是 2009 年杂志材料；文中的 p.17–21 是杂志页码，不是教材 PDF 页码。
 
 ### 2. 巴黎人的新年决心
 
@@ -58,7 +58,7 @@ pages: 72-76
 | Je prends quelques bonnes résolutions et, après, je ne les respecte pas. | 我作了几个好决定，后来又不遵守。 |
 | Alors maintenant, je n'en prends plus. | 所以现在我不再作了。en 代替 des résolutions。 |
 
-> 来源：[[你好法语2-10.30.pdf#page=76|教材第 76 页：完整转录及中文对照]]。这些是不同受访者的回答，不拼成同一个人的经历。
+> 来源：[[你好法语2-11.6.pdf#page=76|教材第 76 页：完整转录及中文对照]]。这些是不同受访者的回答，不拼成同一个人的经历。
 
 ## 单词
 
@@ -75,7 +75,7 @@ pages: 72-76
 | ferme / timide / fictif, fictive | 坚定的／怯生生、犹豫的／虚构、不会实现的。 |
 | la nuit de la Saint-Sylvestre | 十二月三十一日的跨年夜。 |
 
-> 来源：[[你好法语2-10.30.pdf#page=73|教材第 73 页：词汇与手写]]；[[你好法语2-10.30.pdf#page=76|第 76 页：注释]]。
+> 来源：[[你好法语2-11.6.pdf#page=73|教材第 73 页：词汇与手写]]；[[你好法语2-11.6.pdf#page=76|第 76 页：注释]]。
 
 ## 语法
 
@@ -94,7 +94,7 @@ pages: 72-76
 
 对照较现实的条件：**si + 现在时**，主句可以是现在时、最近将来时、简单将来时或命令式，如 **S'il continue comme ça, il va réussir.**（如果继续这样，他会成功。）这与 L13 的假设结构不同。条件式的构成可回看 [[French Textbook/A2/Lesson 07 - Une minute pour un projet|A2 第 7 课]]。
 
-> 来源：[[你好法语2-10.30.pdf#page=74|教材第 74 页：条件式现在时（2）]]。
+> 来源：[[你好法语2-11.6.pdf#page=74|教材第 74 页：条件式现在时（2）]]。
 
 ### 2. 泛指形容词：后面仍带名词
 
@@ -108,7 +108,7 @@ pages: 72-76
 
 课文里的 **plusieurs fois par semaine**、**certains trucs inutiles**、**quelques bonnes résolutions** 都保留后面的名词。下一课会进一步遇到不再跟名词的泛指代词，勿混在一起。
 
-> 来源：[[你好法语2-10.30.pdf#page=74|教材第 74 页：chaque、quelque、plusieurs]]；[[你好法语2-10.30.pdf#page=75|第 75 页：certain、tout]]。
+> 来源：[[你好法语2-11.6.pdf#page=74|教材第 74 页：chaque、quelque、plusieurs]]；[[你好法语2-11.6.pdf#page=75|第 75 页：certain、tout]]。
 
 ### 3. 课文里的代词与否定
 
@@ -116,7 +116,7 @@ pages: 72-76
 - **je ne les respecte pas**：les 回指先前那些决定；**je n'en prends plus**：en 代替数量未确定的决定，ne…plus 表“不再”。
 - **penser plus à soi**：soi 在这里表示泛指的“自己”。plus 在第 72 页有印刷发音对照：如 plus fort 为 [ply]，plus utile 联诵为 [plyz]，表示数量更多的 plus 可读 [plys]；按具体结构分辨，不把所有词尾 s 都读出。
 
-> 来源：[[你好法语2-10.30.pdf#page=72|教材第 72 页：plus 发音注释]]；[[你好法语2-10.30.pdf#page=76|第 76 页：代词与搭配注释]]。
+> 来源：[[你好法语2-11.6.pdf#page=72|教材第 72 页：plus 发音注释]]；[[你好法语2-11.6.pdf#page=76|第 76 页：代词与搭配注释]]。
 
 ## 快速复习
 
@@ -124,4 +124,4 @@ pages: 72-76
 - chaque année 是单数；plusieurs fois 是复数；certains trucs 后面仍有名词。
 - prendre une résolution → la respecter；ne…plus = 不再。
 
-**教材来源：** [[你好法语2-10.30.pdf#page=72|第 72–76 页]]。第 75–76 页的练习与听音题不抄答案，保留转录和可核实的语言说明。
+**教材来源：** [[你好法语2-11.6.pdf#page=72|第 72–76 页]]。第 75–76 页的练习与听音题不抄答案，保留转录和可核实的语言说明。

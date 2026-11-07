@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 3
 lesson: 12
-source: "[[你好法语2-10.30.pdf]]"
+source: "[[你好法语2-11.6.pdf]]"
 pages: 64-67
 ---
 
@@ -29,7 +29,7 @@ pages: 64-67
 | 8 340 entreprises. / 97 000 étudiants. | 8,340 家企业；97,000 名学生。 |
 | Capitale européenne de la culture en 2004. | 2004 年欧洲文化之都。 |
 
-> 来源：[[你好法语2-10.30.pdf#page=64|教材第 64 页：里尔资料及距离表达注释]]。
+> 来源：[[你好法语2-11.6.pdf#page=64|教材第 64 页：里尔资料及距离表达注释]]。
 
 ### 2. Toulouse：玫瑰色的城市
 
@@ -62,7 +62,7 @@ pages: 64-67
 | Lyon est la ville française où il y a le plus de grands cuisiniers. | 里昂是拥有大厨最多的法国城市。 |
 | Fête des Lumières en décembre. | 十二月有灯光节。 |
 
-> 来源：[[你好法语2-10.30.pdf#page=65|教材第 65 页：图卢兹和里昂资料]]；[[你好法语2-10.30.pdf#page=67|第 67 页：中文理解辅助]]。保留原书数字，不自行改成推测的现行数据。
+> 来源：[[你好法语2-11.6.pdf#page=65|教材第 65 页：图卢兹和里昂资料]]；[[你好法语2-11.6.pdf#page=67|第 67 页：中文理解辅助]]。保留原书数字，不自行改成推测的现行数据。
 
 ## 单词
 
@@ -77,7 +77,7 @@ pages: 64-67
 | retenir | 记住；教材说明变位同 venir。 |
 | un vieux quartier / une façade | 老城区／建筑立面；来自文化栏。 |
 
-> 来源：[[你好法语2-10.30.pdf#page=65|教材第 65 页：词汇表与手写提示]]；[[你好法语2-10.30.pdf#page=66|第 66–67 页：老城区文化栏]]。
+> 来源：[[你好法语2-11.6.pdf#page=65|教材第 65 页：词汇表与手写提示]]；[[你好法语2-11.6.pdf#page=66|第 66–67 页：老城区文化栏]]。
 
 ## 语法
 
@@ -85,7 +85,7 @@ pages: 64-67
 
 **À 35 minutes de Bruxelles** 表示“距布鲁塞尔 35 分钟路程”，省略了可从上下文理解的 être。距离也能直接用米、公里：**Le magasin est à 300 mètres d'ici.**（商店离这里 300 米。）交通方式用 **en train / en avion**。
 
-> 来源：[[你好法语2-10.30.pdf#page=64|教材第 64 页：注释 1]]。
+> 来源：[[你好法语2-11.6.pdf#page=64|教材第 64 页：注释 1]]。
 
 ### 2. 把比较级和最高级用于城市资料
 
@@ -94,7 +94,7 @@ pages: 64-67
 - **la ville où il y a le plus de grands cuisiniers**：où 补充城市这一地点；le plus de 比较厨师的数量；**grands cuisiniers** 在此指大厨，而非个子高的厨师。
 - 前面学过 **plus / moins / autant de + 名词 + que** 与 **le plus / le moins de + 名词**，可用来理解本课的城市比较。第 66 页的问答和配对仍留在教材里，不代做。
 
-> 来源：[[你好法语2-10.30.pdf#page=64|教材第 64 页]]；[[你好法语2-10.30.pdf#page=65|第 65 页]]；可回看 [[French Textbook/A2/Lesson 10 - A bicyclette|A2 第 10 课]]、[[French Textbook/A2/Lesson 11 - Destination soleil|A2 第 11 课]]。
+> 来源：[[你好法语2-11.6.pdf#page=64|教材第 64 页]]；[[你好法语2-11.6.pdf#page=65|第 65 页]]；可回看 [[French Textbook/A2/Lesson 10 - A bicyclette|A2 第 10 课]]、[[French Textbook/A2/Lesson 11 - Destination soleil|A2 第 11 课]]。
 
 ## 快速复习
 
@@ -102,4 +102,4 @@ pages: 64-67
 - plus de 90 destinations：超过 90 个目的地。
 - la ville où… le plus de…：把关系代词与数量最高级串起来。
 
-**教材来源：** [[你好法语2-10.30.pdf#page=64|第 64–67 页]]。第三单元课件没有独立的 U3L12 内容；第 68–70 页为复习/测评，不另作课文提取。
+**教材来源：** [[你好法语2-11.6.pdf#page=64|第 64–67 页]]。第三单元课件没有独立的 U3L12 内容；第 68–70 页为复习/测评，不另作课文提取。
