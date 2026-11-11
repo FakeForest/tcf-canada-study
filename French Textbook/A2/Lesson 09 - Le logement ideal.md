@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 3
 lesson: 9
-source: "[[你好法语2-11.6.pdf]]"
+source: "[[你好法语2-11.11.pdf]]"
 pages: 50-53
 ---
 
@@ -19,7 +19,7 @@ pages: 50-53
 
 教材第 50 页是一份**没有填写答案的调查问卷**，涉及住独立屋或公寓、对舒适度/房间布局/面积/街区是否满意、喜欢哪间房，以及希望有花园/露台、空间、采光或安静。未来住房还比较新旧、租客与业主。这里概括主题，**不代填受访者答案**。
 
-> 来源：[[你好法语2-11.6.pdf#page=50|教材第 50 页：住房问卷（未作答）]]。
+> 来源：[[你好法语2-11.11.pdf#page=50|教材第 50 页：住房问卷（未作答）]]。
 
 ### 2. 问卷录音的书面转录：A–G
 
@@ -38,7 +38,7 @@ pages: 50-53
 | **G** Oui, c'est un appartement très bien situé, assez confortable mais il y a vraiment une chose dont je ne suis pas très satisfait : c'est le bruit. | 是的，公寓位置很好，也比较舒适；但有一件事我确实不太满意：噪音。**dont** 来自 *être satisfait de quelque chose*。 |
 | L'appartement est au-dessus d'un bar. Alors, vous imaginez ! | 公寓在一家酒吧楼上。您能想象有多吵！ |
 
-> 来源：[[你好法语2-11.6.pdf#page=53|教材第 53 页：A–G 转录及中文对照]]。原文 A–G 是不同受访者的片段，不是同一人的连贯叙述。
+> 来源：[[你好法语2-11.11.pdf#page=53|教材第 53 页：A–G 转录及中文对照]]。原文 A–G 是不同受访者的片段，不是同一人的连贯叙述。
 
 ## 单词
 
@@ -55,7 +55,7 @@ pages: 50-53
 | **être satisfait(e) de / avoir besoin de** | 对……满意 / 需要……。两者的 **de** 对理解 *dont* 特别关键。|
 | **avoir envie de** | 想要；教材手写把它与 *vouloir* 联想，但语气、搭配不完全相同。|
 
-> 来源：[[你好法语2-11.6.pdf#page=51|教材第 51 页：词汇表、agrandir 变位与手写提示]]；[[你好法语2-11.6.pdf#page=50|第 50 页：问卷里的住房词汇]]。
+> 来源：[[你好法语2-11.11.pdf#page=51|教材第 51 页：词汇表、agrandir 变位与手写提示]]；[[你好法语2-11.11.pdf#page=50|第 50 页：问卷里的住房词汇]]。
 
 ## 语法
 
@@ -71,7 +71,7 @@ pages: 50-53
 
 **où** 在这里是关系代词，不是直接提问的“哪里？”；不要只按“先行词是地点”判断，还要看从句里缺的是地点/时间状语。
 
-> 来源：[[你好法语2-11.6.pdf#page=52|教材第 52 页：où 的定义及例句]]；[[你好法语2-11.6.pdf#page=53|第 53 页：访谈里的地点、时间用例]]。
+> 来源：[[你好法语2-11.11.pdf#page=52|教材第 52 页：où 的定义及例句]]；[[你好法语2-11.11.pdf#page=53|第 53 页：访谈里的地点、时间用例]]。
 
 ### 2. 关系代词 dont：把 de 接回先行词
 
@@ -87,7 +87,7 @@ pages: 50-53
 
 *dont* 既可指人，也可指物；不只与 *parler de* 搭配。第 5 课课件曾把 *tu parles de cet homme* 错写成 **un homme que tu parles souvent**，到本课就能看出：应是 **un homme dont tu parles souvent**。对比 **que** 作直接宾语，**dont** 承接的是 **de + 名词**；若只是地点/时间状语则先考虑 **où**。
 
-> 来源：[[你好法语2-11.6.pdf#page=52|教材第 52 页：dont 的不同句法角色与例句]]；[[你好法语2-11.6.pdf#page=53|第 53 页：être satisfait de 的课文例句]]。
+> 来源：[[你好法语2-11.11.pdf#page=52|教材第 52 页：dont 的不同句法角色与例句]]；[[你好法语2-11.11.pdf#page=53|第 53 页：être satisfait de 的课文例句]]。
 
 ### 3. 描述住房的实用搭配
 
@@ -95,7 +95,7 @@ pages: 50-53
 - **J'ai besoin de grandes pièces claires.** = 我需要宽敞明亮的房间；**avoir besoin de + 名词/动词不定式**。教材还给出 **J'ai besoin de me reposer.**（我需要休息。）
 - **être satisfait(e) de + 名词** = 对……满意；**en ce moment** = 目前，**dans dix ans** = 十年后，别混淆现在和未来。
 
-> 来源：[[你好法语2-11.6.pdf#page=53|教材第 53 页：课文下注释]]。
+> 来源：[[你好法语2-11.11.pdf#page=53|教材第 53 页：课文下注释]]。
 
 ### 4. 第三单元课件补充：把关系从句还原
 
@@ -113,4 +113,4 @@ pages: 50-53
 - **la chose dont je suis satisfait**：因为原搭配是 **être satisfait de quelque chose**。
 - **je le trouve trop petit**：*le* 代客厅，*trop petit* 是对它的评价。
 
-**教材来源：** [[你好法语2-11.6.pdf#page=50|第 50–53 页]]。**课件来源：** [[你好法语A2第三单元.pdf#page=2|U3L9，第 2–6 页]]。
+**教材来源：** [[你好法语2-11.11.pdf#page=50|第 50–53 页]]。**课件来源：** [[你好法语A2第三单元.pdf#page=2|U3L9，第 2–6 页]]。
