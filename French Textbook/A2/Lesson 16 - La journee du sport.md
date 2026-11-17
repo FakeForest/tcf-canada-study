@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 4
 lesson: 16
-source: "[[你好法语2-11.11.pdf]]"
+source: "[[你好法语2-11.16.pdf]]"
 pages: 88-91
 ---
 
@@ -24,7 +24,7 @@ pages: 88-91
 | Le 10 octobre 2008. | 2008 年十月十日。 |
 | Participez aux activités les 10, 11 et 12 octobre. | 请在十月十日、十一日和十二日参加活动。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=88|教材第 88 页：海报与日期注释]]。**le 10 octobre** 指一天；**les 10, 11 et 12 octobre** 指列出的三天，不是每年反复发生的断言。
+> 来源：[[你好法语2-11.16.pdf#page=88|教材第 88 页：海报与日期注释]]。**le 10 octobre** 指一天；**les 10, 11 et 12 octobre** 指列出的三天，不是每年反复发生的断言。
 
 ### 2. 文章：Faites du sport !
 
@@ -39,7 +39,7 @@ pages: 88-91
 | Il faudrait enfin que les responsables politiques prennent des décisions pour donner à la population l'envie de faire des activités physiques. | 最后，决策者应该采取措施，让民众产生参加身体活动的意愿。 |
 | Ensemble, bougeons ! | 一起动起来吧！ |
 
-> 来源：[[你好法语2-11.11.pdf#page=89|教材第 89 页：完整文章]]；[[你好法语2-11.11.pdf#page=91|第 91 页：中文理解辅助]]。保留原文数字和用语只为学习法语；**Aujourd'hui** 是原文写作语境，不是当前调查结论。
+> 来源：[[你好法语2-11.16.pdf#page=89|教材第 89 页：完整文章]]；[[你好法语2-11.16.pdf#page=91|第 91 页：中文理解辅助]]。保留原文数字和用语只为学习法语；**Aujourd'hui** 是原文写作语境，不是当前调查结论。
 
 ## 单词
 
@@ -66,7 +66,7 @@ pages: 88-91
 
 留意 **nous déplaçons** 的 ç，以及 **rappelle / rappelons** 的单双 l。课文用 **que vous rappeliez**，不要照搬现在时 vous rappelez。
 
-> 来源：[[你好法语2-11.11.pdf#page=89|教材第 89 页：词汇表、批注与变位表]]。
+> 来源：[[你好法语2-11.16.pdf#page=89|教材第 89 页：词汇表、批注与变位表]]。
 
 ## 语法
 
@@ -81,7 +81,7 @@ pages: 88-91
 
 不是所有 **il est + 形容词 + que** 都自动用虚拟式；本课先记 **important、indispensable** 这类评价必要性的搭配，并结合 [[French Textbook/A2/Lesson 15 - Demain, j'arrete|A2 第 15 课]] 的结构复习。
 
-> 来源：[[你好法语2-11.11.pdf#page=88|教材第 88 页：注释 5]]；[[你好法语2-11.11.pdf#page=89|第 89 页：文章里的实际用例]]。
+> 来源：[[你好法语2-11.16.pdf#page=88|教材第 88 页：注释 5]]；[[你好法语2-11.16.pdf#page=89|第 89 页：文章里的实际用例]]。
 
 ### 2. 两层 que：不要把整句话都改成虚拟式
 
@@ -91,7 +91,7 @@ pages: 88-91
 - 内层 **rappeliez que… est dangereux**：提醒的具体内容；原文这里用直陈式 est。
 - 同理，**indispensable que les gens comprennent [que le mode de vie et l'alimentation ont une influence…]**：外层 comprennent 是虚拟式，内层事实陈述用 ont。看每一层的支配关系，不是“看到一个虚拟式就整句连锁变形”。
 
-> 来源：[[你好法语2-11.11.pdf#page=89|教材第 89 页：两个嵌套从句]]；[[你好法语2-11.11.pdf#page=88|第 88 页：rappeler 的注释]]。
+> 来源：[[你好法语2-11.16.pdf#page=89|教材第 89 页：两个嵌套从句]]；[[你好法语2-11.16.pdf#page=88|第 88 页：rappeler 的注释]]。
 
 ### 3. 文章中的短语怎样接起来
 
@@ -100,13 +100,19 @@ pages: 88-91
 - **plus de 65 % de la population**：超过百分之六十五的人口；第一个 de 在数量表达里，第二个 de 引出人口这一整体。教材给出的百分数读法是 **soixante-cinq pour cent**。
 - **Faites… / Participez… / Bougeons !**：命令式；bougeons 是“我们一起动起来”，不是 que 引导的虚拟式。
 
-> 来源：[[你好法语2-11.11.pdf#page=88|教材第 88 页：注释 2、3、6]]；[[你好法语2-11.11.pdf#page=89|第 89 页：原文]]。
+> 来源：[[你好法语2-11.16.pdf#page=88|教材第 88 页：注释 2、3、6]]；[[你好法语2-11.16.pdf#page=89|第 89 页：原文]]。
 
 ### 4. 文化栏：只保留复习词汇
 
 **la sécurité sociale**（社会保障）、**l'assurance maladie**（医疗保险）、**une mutuelle**（互助／补充保险机构）、**la carte Vitale**（医保卡）、**un médecin traitant**（主治／指定医生）、**un remboursement**（报销）。这些词来自教材第 91 页文化栏。栏内以 2012–2013 学年等旧资料说明制度，费用、比例和资格不作为当前办事指南搬入笔记。
 
-> 来源：[[你好法语2-11.11.pdf#page=91|教材第 91 页：法国医疗保险文化栏]]。
+> 来源：[[你好法语2-11.16.pdf#page=91|教材第 91 页：法国医疗保险文化栏]]。
+
+### 第四单元课件的衔接
+
+第四单元 PDF 最后一页为 U4L15，没有独立的 U4L16 页。可用课件的 **Il est important de faire du sport. / Il est important que vous fassiez du sport.** 回顾本课第 88–89 页的结构；本课海报和文章仍以教材为准。
+
+> 复习链接：[[你好法语A2第四单元.pdf#page=18|第四单元课件第 18 页：L15 两种句式对照]]。
 
 ## 快速复习
 
@@ -115,4 +121,4 @@ pages: 88-91
 - rappeler à quelqu'un que…；donner à quelqu'un l'envie de…：把搭配的介词一起记。
 - 外层虚拟式不表示内层 que 从句也必须用虚拟式。
 
-**教材来源：** [[你好法语2-11.11.pdf#page=88|第 88–91 页]]。第 90 页问答、判断和写作题不代作答；第 92 页单元练习、第 93 页下一单元封面不纳入本课。
+**教材来源：** [[你好法语2-11.16.pdf#page=88|第 88–91 页]]。第 90 页问答、判断和写作题不代作答；第 92 页单元练习、第 93 页下一单元封面不纳入本课。

@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 5
 lesson: 18
-source: "[[你好法语2-11.11.pdf]]"
+source: "[[你好法语2-11.16.pdf]]"
 pages: 98-101
 ---
 
@@ -21,7 +21,7 @@ pages: 98-101
 |---|---|
 | Les femmes ne s'intéressent plus qu'à leur voiture. | 女士们如今只对自己的汽车感兴趣了。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=98|教材第 98 页：广告语及 ne… plus que 注释]]。这是广告文案，不是事实判断。
+> 来源：[[你好法语2-11.16.pdf#page=98|教材第 98 页：广告语及 ne… plus que 注释]]。这是广告文案，不是事实判断。
 
 ### 2. Thomas 为什么选择半工
 
@@ -42,7 +42,7 @@ pages: 98-101
 | D'accord, quelle est la réaction des gens autour de vous ? | 好的，您身边的人有什么反应？ |
 | Les gens réagissent différemment : beaucoup sont surpris mais, en général, les réactions sont bonnes. | 大家反应各不相同：很多人觉得意外，但总体上反应不错。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=101|教材第 101 页：完整录音转录、中文对照和注释]]。这是教材人物的经历，不把文中的安排当成现行劳动制度。
+> 来源：[[你好法语2-11.16.pdf#page=101|教材第 101 页：完整录音转录、中文对照和注释]]。这是教材人物的经历，不把文中的安排当成现行劳动制度。
 
 ## 单词
 
@@ -58,7 +58,7 @@ pages: 98-101
 | surpris(e) / une surprise | 感到惊讶的／意想不到的事物、惊喜。 |
 | concrètement / facilement / différemment | 具体地、实际地／容易地／不同地；均见访谈。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=98|教材第 98 页：词汇与手写搭配]]；[[你好法语2-11.11.pdf#page=101|第 101 页：词汇在访谈中的用法]]。
+> 来源：[[你好法语2-11.16.pdf#page=98|教材第 98 页：词汇与手写搭配]]；[[你好法语2-11.16.pdf#page=101|第 101 页：词汇在访谈中的用法]]。
 
 ## 语法
 
@@ -72,7 +72,7 @@ pages: 98-101
 
 访谈里，**je peux facilement travailler à mi-temps** 说的是“容易做到”；**les gens réagissent différemment** 说的是“以不同方式作出反应”。副词描述动作方式，不跟主语配合。
 
-> 来源：[[你好法语2-11.11.pdf#page=99|教材第 99 页：-ment 副词构成表]]；[[你好法语2-11.11.pdf#page=101|第 101 页：访谈例句]]。
+> 来源：[[你好法语2-11.16.pdf#page=99|教材第 99 页：-ment 副词构成表]]；[[你好法语2-11.16.pdf#page=101|第 101 页：访谈例句]]。
 
 ### 2. ne… que：限制在某一范围
 
@@ -86,7 +86,7 @@ pages: 98-101
 | Il ne mange plus que des fruits. | 他现在只吃水果了，别的东西不再吃。 |
 | Les femmes ne s'intéressent plus qu'à leur voiture. | **ne… plus que** 合并了“不再”和“只”，只保留一个 ne；**qu'à** 后接 s'intéresser à 的对象。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=98|教材第 98 页：ne… plus que 注释]]；[[你好法语2-11.11.pdf#page=100|第 100 页：ne… que 规则与例句]]。
+> 来源：[[你好法语2-11.16.pdf#page=98|教材第 98 页：ne… plus que 注释]]；[[你好法语2-11.16.pdf#page=100|第 100 页：ne… que 规则与例句]]。
 
 ### 3. 访谈的时间表达和指代
 
@@ -95,7 +95,16 @@ pages: 98-101
 - **mes horaires sont les mêmes que ceux de l'école**：**les mêmes** 表示“相同的”，**ceux** 代 **les horaires**。同一句不用把 horaires 重复两遍。
 - **plus important que le mien**：**le mien** 指 **mon salaire**。对照 **ceux de l'école**：前者是主有代词，后者是指示代词加 de 补语。
 
-> 来源：[[你好法语2-11.11.pdf#page=101|教材第 101 页：时间、并列和代词注释]]。
+> 来源：[[你好法语2-11.16.pdf#page=101|教材第 101 页：时间、并列和代词注释]]。
+
+### 第五单元课件补充：选择、照顾与地点
+
+- **faire un choix**（作选择）、**prendre une résolution**（下决心）、**prendre une décision**（作决定）、**prendre un congé de deux ans**（请两年假）。
+- **en Angleterre / aux Pays-Bas / en Suède**：注意国家名前的介词。**reprendre son travail à temps partiel à la bibliothèque**（回图书馆做非全职工作）。
+- **Qui s'occupe du ménage chez vous ? — Mon mari s'en occupe.** 你家谁负责家务？我丈夫负责。**en** 代 **du ménage**；本句可和 L14 的 **de + 事物** 补语一起复习。
+- **interroger Thomas**（采访 Thomas）与 **un point d'interrogation**（问号）。教材第 99 页也在 **garder leurs filles** 旁有手写提示；**garder** 在这里是照看孩子，不把练习句当作访谈事实。
+
+> 课件：[[你好法语A2第五单元.pdf#page=5|第 5–6 页：选择、工作与照顾]]；[[你好法语2-11.16.pdf#page=99|教材第 99 页：garder 的语境]]。
 
 ## 快速复习
 
@@ -104,4 +113,4 @@ pages: 98-101
 - depuis deux ans 表持续到参照时刻；il y a deux ans 指“两年前”。
 - s'occuper de la petite / des deux grandes：记住 s'occuper **de**。
 
-**教材来源：** [[你好法语2-11.11.pdf#page=98|第 98–101 页]]。第 99–100 页的听力、填空、角色扮演不代作答；第 102 页进入 L19。
+**教材来源：** [[你好法语2-11.16.pdf#page=98|第 98–101 页]]。第 99–100 页的听力、填空、角色扮演不代作答；第 102 页进入 L19。

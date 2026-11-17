@@ -4,14 +4,14 @@ cssclasses:
 level: A2
 unit: 4
 lesson: 15
-source: "[[你好法语2-11.11.pdf]]"
+source: "[[你好法语2-11.16.pdf]]"
 pages: 82-87
 ---
 
 # A2 Lesson 15 - Demain, j'arrête…
 
 > [!info] 本课重点
-> 理解广播里的问题与建议，学习 **devoir + 不定式**、**虚拟式现在时**以及 **il faut que / il vaut mieux que…**。健康话题仅作教材语言材料，不把课文建议当作个人医疗方案。未提供第四单元课件，本课依据教材及手写批注。
+> 理解广播里的问题与建议，学习 **devoir + 不定式**、**虚拟式现在时**以及 **il faut que / il vaut mieux que…**。健康话题仅作教材语言材料，不把课文建议当作个人医疗方案。教材与第四单元课件对照复习。
 
 ## 课文
 
@@ -25,7 +25,7 @@ pages: 82-87
 
 问卷询问吸烟的理由、开始时间及戒烟经历，是**未填写的源材料**，不把其陈述当成你的个人情况，也不代填 oui / non。
 
-> 来源：[[你好法语2-11.11.pdf#page=82|教材第 82 页：漫画与问卷]]。
+> 来源：[[你好法语2-11.16.pdf#page=82|教材第 82 页：漫画与问卷]]。
 
 ### 2. 建议卡：识别句式
 
@@ -39,7 +39,7 @@ pages: 82-87
 | Faites des activités qui vous permettent de bouger. | 做一些能让您活动起来的事情。 |
 | Il faut que vous en parliez à d'anciens fumeurs. | 您应该跟以前吸烟、现在已戒烟的人谈谈这件事。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=82|教材第 82 页：建议卡]]；[[你好法语2-11.11.pdf#page=87|第 87 页：中文对照]]。重点看 que 后的 évitiez、arrêtiez、commenciez、preniez、parliez，而不是把它们误认成过去叙述。
+> 来源：[[你好法语2-11.16.pdf#page=82|教材第 82 页：建议卡]]；[[你好法语2-11.16.pdf#page=87|第 87 页：中文对照]]。重点看 que 后的 évitiez、arrêtiez、commenciez、preniez、parliez，而不是把它们误认成过去叙述。
 
 ### 3. 广播访谈：Thierry 的问题
 
@@ -67,7 +67,7 @@ pages: 82-87
 | Marchez aussi souvent que possible. | 尽可能经常走路。 |
 | Vous verrez, cela vous aidera. | 您会发现，这对您有帮助。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=87|教材第 87 页：完整转录及中文对照]]。这是书中角色的访谈，不是用户本人的健康经历。
+> 来源：[[你好法语2-11.16.pdf#page=87|教材第 87 页：完整转录及中文对照]]。这是书中角色的访谈，不是用户本人的健康经历。
 
 ## 单词
 
@@ -84,7 +84,7 @@ pages: 82-87
 
 **ancien 的位置会影响意思**：**mon ancien immeuble** = 我以前住的那栋楼；**un immeuble ancien** = 一栋老楼。不能把 d'anciens fumeurs 只译成“年老的吸烟者”。
 
-> 来源：[[你好法语2-11.11.pdf#page=83|教材第 83 页：词汇、手写联想及注释]]。
+> 来源：[[你好法语2-11.16.pdf#page=83|教材第 83 页：词汇、手写联想及注释]]。
 
 ## 语法
 
@@ -100,7 +100,7 @@ pages: 82-87
 
 先根据语境判断“义务、推测还是安排”，不要一律译成“必须”。**devoir + 不定式** 与 **il faut que + 主语 + 虚拟式** 是不同结构。
 
-> 来源：[[你好法语2-11.11.pdf#page=84|教材第 84 页：devoir 的三类含义]]。
+> 来源：[[你好法语2-11.16.pdf#page=84|教材第 84 页：devoir 的三类含义]]。
 
 ### 2. 虚拟式现在时的构成
 
@@ -130,7 +130,7 @@ pages: 82-87
 
 另有只列非人称第三人称单数的 **qu'il pleuve**、**qu'il faille**。本表各格都置于 que 引导的从句中，je 在元音前省音为 j'，如 **que j'aie**。教材 devoir 表的单数第三人称代词疑有排印错误，这里按该行的人称整理为 **qu'il/elle doive**。
 
-> 来源：[[你好法语2-11.11.pdf#page=84|教材第 84 页：规则构成]]；[[你好法语2-11.11.pdf#page=85|第 85 页：不规则形式]]。也可回看 [[A2条件式现在时与虚拟式现在时变位表 - 已填.pdf|已填变位表]]。
+> 来源：[[你好法语2-11.16.pdf#page=84|教材第 84 页：规则构成]]；[[你好法语2-11.16.pdf#page=85|第 85 页：不规则形式]]。也可回看 [[A2条件式现在时与虚拟式现在时变位表 - 已填.pdf|已填变位表]]。
 
 ### 3. 什么时候用虚拟式：看主句表达的态度
 
@@ -147,7 +147,7 @@ pages: 82-87
 
 教材对照：**Je pense que c'est nécessaire.**（我认为有必要，直陈式）与 **Je ne pense pas que ce soit possible.**（我不认为可能，虚拟式）；**Nous sommes sûrs qu'elles viendront…** 与 **Mme Legrand n'est pas sûre que son fils accepte ce travail.** 也体现确定性与不确定性的差别。这些是本课的典型搭配，不把“所有疑问、否定从句都必须用虚拟式”当成无限制的总规则。
 
-> 来源：[[你好法语2-11.11.pdf#page=85|教材第 85 页：意愿、情感、判断与否定的例句]]。
+> 来源：[[你好法语2-11.16.pdf#page=85|教材第 85 页：意愿、情感、判断与否定的例句]]。
 
 ### 4. 把两种 que 从句与 si 分开
 
@@ -156,7 +156,17 @@ pages: 82-87
 - **vous associiez**：课文里确实有连续的 ii，来自 associer 的变位，不要擅自删掉一个 i。
 - **vous en parliez à…**：en 代 parler de 的话题；à 后是谈话对象，接回 L14 的代词用法。
 
-> 来源：[[你好法语2-11.11.pdf#page=82|教材第 82 页：建议卡]]；[[你好法语2-11.11.pdf#page=87|第 87 页：广播转录]]。
+> 来源：[[你好法语2-11.16.pdf#page=82|教材第 82 页：建议卡]]；[[你好法语2-11.16.pdf#page=87|第 87 页：广播转录]]。
+
+### 第四单元课件补充：建议句、主语与双词干
+
+- **Il doit faire du sport. / Il lui faut faire du sport.** 同样说他需要运动。前句以 **il** 作主语；后句 **il** 是无人称主语，**lui** 指需要做这件事的人。**faire ses devoirs** 是做作业，和动词 **devoir** 区分。
+- **Je souhaite aller en France un jour.**（我希望有一天去法国。）希望的人和去的人都是我，直接用不定式。**Je souhaite que ma fille puisse aller en France un jour.**（我希望女儿有一天能去法国。）从句有自己的主语 **ma fille**，用 **puisse**。
+- **prendre** 的虚拟式：**que je prenne, que tu prennes, qu'il/elle prenne, que nous prenions, que vous preniez, qu'ils/elles prennent**。对照 **ils prennent → prenn-** 与 **nous prenons → pren-**。课件第 22 页末行写“加……词根”，按表所示实际加的是词尾；第 21 页表格有错位，复习用第 22 页。
+- **Je doute que Juliette soit italienne.**（我怀疑 Juliette 是不是意大利人。）再对照 **Je pense que Paul est très intelligent. / Je ne pense pas que Paul soit plus intelligent que moi.** 疑问句要看说话者是否表达怀疑，不能仅凭倒装就判虚拟式。课件的 **espérer** 疑问例不当成必用虚拟式的规则。
+- 词汇对照：**permettre quelque chose à quelqu'un / permettre à quelqu'un de faire quelque chose**；**associer une date à un événement heureux**；**il est trop tard pour arrêter**。
+
+> 课件：[[你好法语A2第四单元.pdf#page=15|第 15–17 页：词汇和 devoir]]；[[你好法语A2第四单元.pdf#page=18|第 18–20 页：不定式与虚拟式用法]]；[[你好法语A2第四单元.pdf#page=22|第 21–23 页的变位表与例词（从完整表打开）]]。
 
 ## 快速复习
 
@@ -165,4 +175,4 @@ pages: 82-87
 - 主句条件式 faudrait + 从句虚拟式，不等于 si 条件句。
 - ancien 放在名词前可表示“从前的”；prendre / perdre du poids 是一对搭配。
 
-**教材来源：** [[你好法语2-11.11.pdf#page=82|第 82–87 页]]。第 84、86 页的练习与听音题不代作答，保留的是可核实的源文、注释及语法。
+**教材来源：** [[你好法语2-11.16.pdf#page=82|第 82–87 页]]。第 84、86 页的练习与听音题不代作答，保留的是可核实的源文、注释及语法。

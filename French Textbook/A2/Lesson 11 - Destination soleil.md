@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 3
 lesson: 11
-source: "[[你好法语2-11.11.pdf]]"
+source: "[[你好法语2-11.16.pdf]]"
 pages: 60-63
 ---
 
@@ -22,7 +22,7 @@ pages: 60-63
 | Montpellier, la ville où le soleil ne se couche jamais. | 蒙彼利埃，太阳永不落下的城市。是宣传语，不是字面上的地理事实。 |
 | Montpellier, mille et une vies. | 蒙彼利埃，一千零一种生活。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=60|教材第 60 页：城市海报]]。
+> 来源：[[你好法语2-11.16.pdf#page=60|教材第 60 页：城市海报]]。
 
 ### 2. Benjamin 和 Natacha 的迁居访谈
 
@@ -45,7 +45,7 @@ pages: 60-63
 | Mais ce n'est pas possible pour tout le monde… | 但并不是每个人都可以这样…… |
 | Ah non, et puis, quand on demande aux Français où ils aimeraient habiter, Montpellier fait partie des villes les plus citées. | 对，而且问法国人想住在哪里时，蒙彼利埃是最常被提到的城市之一。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=63|教材第 63 页：完整转录及中文对照]]。访谈的“去年”等时间指教材叙述当时。
+> 来源：[[你好法语2-11.16.pdf#page=63|教材第 63 页：完整转录及中文对照]]。访谈的“去年”等时间指教材叙述当时。
 
 ## 单词
 
@@ -59,7 +59,7 @@ pages: 60-63
 | faire partie de / citer | 属于……、是……的一部分／提及。 |
 | une qualité / une raison | 优点、品质／原因；教材在 raisons 附近写了英文含义提示 reason。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=60|教材第 60 页：词汇]]；[[你好法语2-11.11.pdf#page=61|第 61 页：手写含义提示]]；[[你好法语A2第三单元.pdf#page=15|课件第 15 页：U3L11 词汇]]。
+> 来源：[[你好法语2-11.16.pdf#page=60|教材第 60 页：词汇]]；[[你好法语2-11.16.pdf#page=61|第 61 页：手写含义提示]]；[[你好法语A2第三单元.pdf#page=15|课件第 15 页：U3L11 词汇]]。
 
 ## 语法
 
@@ -77,7 +77,7 @@ pages: 60-63
 
 **bon → le meilleur / la meilleure / les meilleurs / les meilleures**。与 L10 的 **plus… que…** 区分：比较级拿两个对象比较；最高级把一个对象放进一个范围中。
 
-> 来源：[[你好法语2-11.11.pdf#page=61|教材第 61 页：形容词最高级]]；[[你好法语A2第三单元.pdf#page=16|课件第 16 页：位置、范围和 meilleure]]。课件底部有重叠文字，不补猜不可见句子。
+> 来源：[[你好法语2-11.16.pdf#page=61|教材第 61 页：形容词最高级]]；[[你好法语A2第三单元.pdf#page=16|课件第 16 页：位置、范围和 meilleure]]。课件底部有重叠文字，不补猜不可见句子。
 
 ### 2. 副词与数量最高级：le 不随主语变化
 
@@ -92,7 +92,7 @@ pages: 60-63
 
 **le plus / le moins + 副词 + possible** 表示尽可能地……：**Tu dois dire « non » le moins souvent possible.**（你应该尽可能少说“不”。）课件也给出 **Je fais de la natation le plus souvent possible.**（我尽可能经常游泳。）
 
-> 来源：[[你好法语2-11.11.pdf#page=62|教材第 62 页：副词及数量最高级]]；[[你好法语A2第三单元.pdf#page=17|课件第 17 页：le 的形式与 possible]]。
+> 来源：[[你好法语2-11.16.pdf#page=62|教材第 62 页：副词及数量最高级]]；[[你好法语A2第三单元.pdf#page=17|课件第 17 页：le 的形式与 possible]]。
 
 ### 3. 课文搭配联动
 
@@ -100,7 +100,7 @@ pages: 60-63
 - **faire partie de + 整体**：属于……；**des villes les plus citées** 中 des = de + les，不是把整个短语当数量不定冠词。
 - **le lieu où nous vivons**：où 关联居住地点，接回第 9 课。
 
-> 来源：[[你好法语2-11.11.pdf#page=63|教材第 63 页：注释]]；[[你好法语A2第三单元.pdf#page=15|课件第 15 页]]。
+> 来源：[[你好法语2-11.16.pdf#page=63|教材第 63 页：注释]]；[[你好法语A2第三单元.pdf#page=15|课件第 15 页]]。
 
 ## 快速复习
 
@@ -108,4 +108,4 @@ pages: 60-63
 - Elle chante le mieux：副词最高级仍用 le。
 - le plus de soleil：比较阳光的数量；le lieu où…：补充地点。
 
-**教材来源：** [[你好法语2-11.11.pdf#page=60|第 60–63 页]]；**课件来源：** [[你好法语A2第三单元.pdf#page=15|U3L11，第 15–17 页]]。
+**教材来源：** [[你好法语2-11.16.pdf#page=60|第 60–63 页]]；**课件来源：** [[你好法语A2第三单元.pdf#page=15|U3L11，第 15–17 页]]。

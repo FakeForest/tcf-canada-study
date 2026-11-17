@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 4
 lesson: 14
-source: "[[你好法语2-11.11.pdf]]"
+source: "[[你好法语2-11.16.pdf]]"
 pages: 77-81
 ---
 
@@ -33,7 +33,7 @@ pages: 77-81
 | Et pour chaque repère, il existe une fiche semblable à celle-ci pour vous aider dans votre quotidien. | 每项标准都有类似这张的说明卡，帮助你安排日常生活。 |
 | Retrouvez les autres fiches et tous nos conseils pratiques sur www.mangerbouger.fr. | 可在原文所列网站找到其他说明卡和实用建议。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=77|教材第 77 页：原版海报]]；[[你好法语2-11.11.pdf#page=81|第 81 页：中文对照]]。数字照原书保留，仅用于读懂课文。
+> 来源：[[你好法语2-11.16.pdf#page=77|教材第 77 页：原版海报]]；[[你好法语2-11.16.pdf#page=81|第 81 页：中文对照]]。数字照原书保留，仅用于读懂课文。
 
 ### 2. Jérôme 与 Laurence 的访谈
 
@@ -57,7 +57,7 @@ pages: 77-81
 | J'aimerais bien, moi, faire régulièrement un footing, mais je n'y arrive pas ! | 我也想经常慢跑，可我做不到！y 代替“做到经常慢跑这件事”。 |
 | Quand je pense que certaines en font un tous les dimanches ou plusieurs par semaine ! | 想到有些女性每周日都慢跑一次，或每周好几次，真令人佩服！en 指 footing，un / plusieurs 保留次数。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=81|教材第 81 页：完整转录与中文对照]]。原文的 récente、aujourd'hui 是教材语境中的“最近／如今”，不是对当前统计的断言。
+> 来源：[[你好法语2-11.16.pdf#page=81|教材第 81 页：完整转录与中文对照]]。原文的 récente、aujourd'hui 是教材语境中的“最近／如今”，不是对当前统计的断言。
 
 ## 单词
 
@@ -74,7 +74,7 @@ pages: 77-81
 | arriver à + 不定式 | 成功做到……；不只是“到达某地”。 |
 | les personnes âgées | 老年人；第 78 页手写中文提示。 |
 
-> 来源：[[你好法语2-11.11.pdf#page=77|教材第 77 页：词汇与手写]]；[[你好法语2-11.11.pdf#page=78|第 78 页：批注]]。
+> 来源：[[你好法语2-11.16.pdf#page=77|教材第 77 页：词汇与手写]]；[[你好法语2-11.16.pdf#page=78|第 78 页：批注]]。
 
 ## 语法
 
@@ -95,7 +95,7 @@ pages: 77-81
 
 指物时可用 en：**Son voyage ? Il vient d'en parler.**（他的旅行？他刚谈过。）**Ton travail ? J'en suis très contente.**（你的工作？我很满意。）en 还可表示“从那里”：**Nathalie a ouvert son sac et en a sorti un livre.**（娜塔莉打开包，从中取出一本书。）
 
-> 来源：[[你好法语2-11.11.pdf#page=78|教材第 78 页：en 与数量]]；[[你好法语2-11.11.pdf#page=79|第 79 页：de 补语、指人限制与状语用法]]。
+> 来源：[[你好法语2-11.16.pdf#page=78|教材第 78 页：en 与数量]]；[[你好法语2-11.16.pdf#page=79|第 79 页：de 补语、指人限制与状语用法]]。
 
 ### 2. y：地点，或 à 引出的事物／行为
 
@@ -107,7 +107,7 @@ pages: 77-81
 
 课文的 **je n'y arrive pas** 就是“做不到经常慢跑”，而 **certaines en font un** 则是“有些女性做一次慢跑”。分别找回 **arriver à** 和 **faire un footing**，比只按中文“它”来猜代词更清楚。
 
-> 来源：[[你好法语2-11.11.pdf#page=79|教材第 79 页：y]]；[[你好法语2-11.11.pdf#page=81|第 81 页：注释 5–6]]。
+> 来源：[[你好法语2-11.16.pdf#page=79|教材第 79 页：y]]；[[你好法语2-11.16.pdf#page=81|第 81 页：注释 5–6]]。
 
 ### 3. 泛指代词：代替名词独立使用
 
@@ -126,7 +126,7 @@ pages: 77-81
 
 **quelque chose / quelqu'un / rien + de + 阳性单数形容词**：**C'est quelque chose de nouveau.**（这是新鲜事）；**On ne trouve rien d'intéressant dans ce film.**（这部电影里找不到有趣的东西。）
 
-> 来源：[[你好法语2-11.11.pdf#page=79|教材第 79 页：泛指代词表与句法角色]]；[[你好法语2-11.11.pdf#page=80|第 80 页：de + 修饰语]]。
+> 来源：[[你好法语2-11.16.pdf#page=79|教材第 79 页：泛指代词表与句法角色]]；[[你好法语2-11.16.pdf#page=80|第 80 页：de + 修饰语]]。
 
 ### 4. 课文中的比例与整句指代
 
@@ -134,7 +134,22 @@ pages: 77-81
 - **ce qui est bien** 中 ce 回指前面整件事，qui 在从句作主语，不只指最近的 poisson。
 - **les plus de 55 ans**：教材解释为省略 gens / personnes 的年龄人群说法。
 
-> 来源：[[你好法语2-11.11.pdf#page=77|教材第 77 页：年龄人群注释]]；[[你好法语2-11.11.pdf#page=81|第 81 页：注释 2、4]]。
+> 来源：[[你好法语2-11.16.pdf#page=77|教材第 77 页：年龄人群注释]]；[[你好法语2-11.16.pdf#page=81|第 81 页：注释 2、4]]。
+
+### 第四单元课件补充：en、y 和否定代词的位置
+
+- **Tu as combien de pommes ? — J'en ai trois.** 你有几个苹果？我有三个。**en** 替代名词部分，**trois** 保留。**Tu viens de chez tes parents ? — Oui, j'en viens.** 你从父母家来吗？是的，我从那儿来。这里 **en** 表地点来源，不是代父母本人。
+- **Ton nouveau travail, tu en es satisfait ?** 你对新工作满意吗？**en** 对应 **de ton nouveau travail**。课件“代人用重读代词”是针对这里所对照的 **de + 人** 补语，不否定数量结构 **j'en ai beaucoup** 可以指人。
+- **Tu veux aller au marché ? — Oui, on y va ensemble.** 你想去市场吗？好，我们一起去。**y** 代地点；**je n'y arrive pas** 的 **y** 可代 **à + 不定式** 所指的事。**répondre à / s'intéresser à** 也是课件列出的搭配。
+
+| 作宾语时 | 简单时态 | 复合时态 | 有不定式时 |
+|---|---|---|---|
+| rien | Je ne mange rien. | Je n'ai rien mangé. | Je ne veux rien manger. |
+| personne | Je ne vois personne. | Je n'ai vu personne. | Je ne veux voir personne. |
+
+作主语时放在句首：**Rien ne m'intéresse.**（我对什么都没兴趣。）**Personne ne s'intéresse à notre livre.**（没人对我们的书感兴趣。）课件另外对照 **certains… d'autres…**（有些……另一些……）、**quelques-uns / quelques-unes** 和 **chacune d'entre elles**（她们每个人）。
+
+> 课件：[[你好法语A2第四单元.pdf#page=7|第 7–8 页：au quotidien、selon / d'après、semblable à 等]]；[[你好法语A2第四单元.pdf#page=9|第 9–10 页：en]]；[[你好法语A2第四单元.pdf#page=11|第 11 页：y]]；[[你好法语A2第四单元.pdf#page=12|第 12–14 页：否定与泛指代词]]。
 
 ## 快速复习
 
@@ -143,4 +158,4 @@ pages: 77-81
 - quelques + 名词，与 quelques-uns 独立使用不同。
 - quelque chose de nouveau；rien d'intéressant：别漏掉 de。
 
-**教材来源：** [[你好法语2-11.11.pdf#page=77|第 77–81 页]]。保留课文、转录和语法；第 78、80 页的配对、填空、听音练习不代作答。
+**教材来源：** [[你好法语2-11.16.pdf#page=77|第 77–81 页]]。保留课文、转录和语法；第 78、80 页的配对、填空、听音练习不代作答。
