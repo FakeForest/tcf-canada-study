@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 5
 lesson: 20
-source: "[[你好法语2-11.16.pdf]]"
+source: "[[你好法语2-11.23.pdf]]"
 pages: 108-113
 ---
 
@@ -32,7 +32,7 @@ pages: 108-113
 | Dans l'université où j'étais, en Irlande, le système de notes est particulier : A1, A2, A3, B1, B2, B3… | 我在爱尔兰读的那所大学评分方式很特别：A1、A2、A3、B1、B2、B3…… |
 | La bibliothèque est ouverte 24 heures sur 24 et il y a de nombreux ordinateurs avec Internet. | 图书馆全天二十四小时开放，还有很多能上网的电脑。 |
 
-> 来源：[[你好法语2-11.16.pdf#page=108|教材第 108 页：约克和都柏林]]。A1、B1 等在这段是当事人所说的校内成绩标记，不是本教材的法语等级。
+> 来源：[[你好法语2-11.23.pdf#page=108|教材第 108 页：约克和都柏林]]。A1、B1 等在这段是当事人所说的校内成绩标记，不是本教材的法语等级。
 
 ### 3. Sophie：斯图加特，德语专业
 
@@ -62,7 +62,7 @@ pages: 108-113
 | Ils sont là pour aider les élèves. | 他们是来帮助学生的。 |
 | Mais il y a plus de travail personnel et plus d'examens. | 但是自主学习任务和考试也更多。 |
 
-> 来源：[[你好法语2-11.16.pdf#page=109|教材第 109 页：斯图加特、蒙特利尔、芝加哥]]；[[你好法语2-11.16.pdf#page=113|第 113 页：五段中译]]。第 110 页问答与书信题不代作答，第 114 页为单元练习。
+> 来源：[[你好法语2-11.23.pdf#page=109|教材第 109 页：斯图加特、蒙特利尔、芝加哥]]；[[你好法语2-11.23.pdf#page=113|第 113 页：五段中译]]。第 110 页问答与书信题不代作答，第 114 页为单元练习。
 
 ## 单词
 
@@ -85,7 +85,7 @@ pages: 108-113
 
 **rendre** 不只表示交还、上交。第 109 页手写例句（规范重音）：**Mes études à l'étranger me rendent plus compétent.** 留学让我更有能力。这里是 **rendre + 人 + 形容词**（使某人变得……），不同于 **rendre un devoir**。
 
-> 来源：[[你好法语2-11.16.pdf#page=108|教材第 108 页：词汇、注释及手写联想]]；[[你好法语2-11.16.pdf#page=109|第 109 页：变位表与手写例句]]。
+> 来源：[[你好法语2-11.23.pdf#page=108|教材第 108 页：词汇、注释及手写联想]]；[[你好法语2-11.23.pdf#page=109|第 109 页：变位表与手写例句]]。
 
 ## 语法
 
@@ -103,7 +103,7 @@ pages: 108-113
 - **beaucoup plus ouvert que le nôtre**：比我们的开放得多。**beaucoup** 加强 **plus ouvert**；**le nôtre** 替代 **notre système**。
 - **plus de discussions / peu de cours / beaucoup de travail personnel**：比较或描述数量时，注意 **de + 名词**。**c'est plus facile qu'en France** 则是比较“容易”的程度。
 
-> 来源：[[你好法语2-11.16.pdf#page=108|教材第 108 页：三条课文注释]]；[[你好法语2-11.16.pdf#page=109|第 109 页：比较表达]]。
+> 来源：[[你好法语2-11.23.pdf#page=108|教材第 108 页：三条课文注释]]；[[你好法语2-11.23.pdf#page=109|第 109 页：比较表达]]。
 
 ### 4. 文化栏：教育阶段词汇
 
@@ -114,7 +114,7 @@ pages: 108-113
 | 高等教育 enseignement supérieur | université（大学）／grande école（高等专科学校）／IUT（大学技术学院） |
 | 教材所列大学学位层级 LMD | licence（学士）、master（硕士）、doctorat（博士） |
 
-> 来源：[[你好法语2-11.16.pdf#page=111|教材第 111 页：法国教育体系文化栏]]；[[你好法语2-11.16.pdf#page=112|第 112 页：学制图]]。图中博士阶段重复印了 **Doctorat 2**，这里不据此推断年级；考试分类、年代数据和入学条件也不当作现行指南。
+> 来源：[[你好法语2-11.23.pdf#page=111|教材第 111 页：法国教育体系文化栏]]；[[你好法语2-11.23.pdf#page=112|第 112 页：学制图]]。图中博士阶段重复印了 **Doctorat 2**，这里不据此推断年级；考试分类、年代数据和入学条件也不当作现行指南。
 
 ## 快速复习
 
@@ -123,4 +123,4 @@ pages: 108-113
 - rendre un devoir 与 rendre quelqu'un plus compétent：同一个动词，两种搭配。
 - beaucoup plus ouvert que le nôtre 是程度比较，plus d'examens 是数量比较。
 
-**教材来源：** [[你好法语2-11.16.pdf#page=108|第 108–113 页]]。第五单元课件到 U5L19 为止，没有单独的 L20 页；本课依据教材、批注与文化栏整理。
+**教材来源：** [[你好法语2-11.23.pdf#page=108|第 108–113 页]]。第五单元课件到 U5L19 为止，没有单独的 L20 页；本课依据教材、批注与文化栏整理。

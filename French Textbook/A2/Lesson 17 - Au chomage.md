@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 5
 lesson: 17
-source: "[[你好法语2-11.16.pdf]]"
+source: "[[你好法语2-11.23.pdf]]"
 pages: 94-97
 ---
 
@@ -28,7 +28,7 @@ pages: 94-97
 | En France, les femmes représentent presque la moitié de la population active. | 原文称，在法国，女性占劳动人口的近一半。 |
 | Mais elles sont encore très peu à avoir un poste de directeur dans une grande entreprise. | 但在大企业担任主管的女性仍然很少。 |
 
-> 来源：[[你好法语2-11.16.pdf#page=94|教材第 94 页：剪报原文和注释]]；[[你好法语2-11.16.pdf#page=97|第 97 页：中文对照]]。
+> 来源：[[你好法语2-11.23.pdf#page=94|教材第 94 页：剪报原文和注释]]；[[你好法语2-11.23.pdf#page=97|第 97 页：中文对照]]。
 
 ### 2. Lucinda：从保洁转到面包店
 
@@ -62,7 +62,7 @@ pages: 94-97
 | Finalement, j'ai créé mon entreprise avec l'aide d'une association. | 最后，我在一个协会的帮助下创办了自己的公司。 |
 | Et je suis vraiment très heureuse parce que ça marche très très bien. | 我真的很开心，因为生意非常顺利。 |
 
-> 来源：[[你好法语2-11.16.pdf#page=97|教材第 97 页：三段完整录音转录与注释]]；[[你好法语2-11.16.pdf#page=95|第 95 页：说话者姓名与词汇]]。上面保留转录里的口语省略，不代填听力表。
+> 来源：[[你好法语2-11.23.pdf#page=97|教材第 97 页：三段完整录音转录与注释]]；[[你好法语2-11.23.pdf#page=95|第 95 页：说话者姓名与词汇]]。上面保留转录里的口语省略，不代填听力表。
 
 ## 单词
 
@@ -84,7 +84,7 @@ pages: 94-97
 | accueillir | j'accueille / nous accueillons / ils accueillent | accueilli |
 | perdre | je perds / nous perdons / ils perdent | perdu |
 
-> 来源：[[你好法语2-11.16.pdf#page=95|教材第 95 页：词汇、手写词族与变位]]；[[你好法语2-11.16.pdf#page=97|第 97 页：语境]]。
+> 来源：[[你好法语2-11.23.pdf#page=95|教材第 95 页：词汇、手写词族与变位]]；[[你好法语2-11.23.pdf#page=97|第 97 页：语境]]。
 
 ## 语法
 
@@ -98,7 +98,7 @@ pages: 94-97
 
 **L'entreprise avait de gros problèmes économiques, alors ils nous ont licenciés.** 前半句 **avait** 交代企业当时的状况；后半句 **ont licenciés**（完整结构 **nous ont licenciés**）说随后发生的解雇。不要把“持续时间长”直接等同于未完成过去时：**Elles ont travaillé vingt ans dans cette entreprise.** 仍然可以用复合过去时，把二十年作为已结束的一段经历。
 
-> 来源：[[你好法语2-11.16.pdf#page=96|教材第 96 页：叙事时态表]]；[[你好法语2-11.16.pdf#page=97|第 97 页：访谈对照]]。
+> 来源：[[你好法语2-11.23.pdf#page=96|教材第 96 页：叙事时态表]]；[[你好法语2-11.23.pdf#page=97|第 97 页：访谈对照]]。
 
 ### 2. 课文中的时间、数量与口语
 
@@ -108,7 +108,7 @@ pages: 94-97
 - **avec l'aide de** 表示在某人或机构的帮助下；**à l'aide de** 可表示借助工具。对照教材的 **avec l'aide de ses amis** 与 **à l'aide de béquilles**。
 - **J'ai pas fait d'études**、**C'était pas facile** 是录音里的口语。正式写作时补回 ne：**Je n'ai pas fait d'études**、**Ce n'était pas facile**。
 
-> 来源：[[你好法语2-11.16.pdf#page=94|教材第 94 页：数量结构]]；[[你好法语2-11.16.pdf#page=97|第 97 页：口语与时间注释]]。
+> 来源：[[你好法语2-11.23.pdf#page=94|教材第 94 页：数量结构]]；[[你好法语2-11.23.pdf#page=97|第 97 页：口语与时间注释]]。
 
 ### 第五单元课件补充：求职与家务搭配
 
@@ -124,4 +124,4 @@ pages: 94-97
 - il y a un an et demi 是“一年半以前”，un an au chômage 是“失业持续一年”。
 - emploi 是工作，employé 是雇员，employeur 是雇主。
 
-**教材来源：** [[你好法语2-11.16.pdf#page=94|第 94–97 页]]。练习、面试角色扮演和听音题不代作答。
+**教材来源：** [[你好法语2-11.23.pdf#page=94|第 94–97 页]]。练习、面试角色扮演和听音题不代作答。

@@ -4,7 +4,7 @@ cssclasses:
 level: A2
 unit: 5
 lesson: 19
-source: "[[你好法语2-11.16.pdf]]"
+source: "[[你好法语2-11.23.pdf]]"
 pages: 102-107
 ---
 
@@ -32,7 +32,7 @@ pages: 102-107
 | « C'est l'enfance dont tout le monde rêve. » | “那是人人梦想拥有的童年。” |
 | Les enfants se retrouvent dans ces histoires, les parents se souviennent. | 孩子们在故事中看到自己的影子，家长们则回想起童年。 |
 
-> 来源：[[你好法语2-11.16.pdf#page=102|教材第 102 页：网页原文]]；[[你好法语2-11.16.pdf#page=107|第 107 页：中文对照]]。文中“五十年前／已五十年”以 **2009 年**为参照；年份明确时，原文也用 **paraît / reçoit** 讲述历史事件。
+> 来源：[[你好法语2-11.23.pdf#page=102|教材第 102 页：网页原文]]；[[你好法语2-11.23.pdf#page=107|第 107 页：中文对照]]。文中“五十年前／已五十年”以 **2009 年**为参照；年份明确时，原文也用 **paraît / reçoit** 讲述历史事件。
 
 ### 2. 录音转录：校园回忆
 
@@ -65,7 +65,7 @@ pages: 102-107
 | J'étais animateur. | 我当时负责组织活动。 |
 | C'était vraiment un travail sympa mais le salaire (n')était pas très intéressant. | 工作确实挺有趣，但工资没有多吸引人。 |
 
-> 来源：[[你好法语2-11.16.pdf#page=107|教材第 107 页：两组完整转录及中译]]。原文最后一句将口语中的 **n'** 放在括号里；正式写作保留 **n'était pas**。
+> 来源：[[你好法语2-11.23.pdf#page=107|教材第 107 页：两组完整转录及中译]]。原文最后一句将口语中的 **n'** 放在括号里；正式写作保留 **n'était pas**。
 
 ## 单词
 
@@ -87,7 +87,7 @@ pages: 102-107
 | plaire | je plais / il plaît / nous plaisons | plu |
 | rire | je ris / il rit / nous rions | ri |
 
-> 来源：[[你好法语2-11.16.pdf#page=103|教材第 103 页：词汇、手写批注与变位]]；[[你好法语A2第五单元.pdf#page=7|课件第 7–8 页：出版、获奖与校园搭配]]。课件用 **Le salaire n'était pas très intéressant.** 对照 **un travail sympa**：工作有趣，待遇却不吸引人。
+> 来源：[[你好法语2-11.23.pdf#page=103|教材第 103 页：词汇、手写批注与变位]]；[[你好法语A2第五单元.pdf#page=7|课件第 7–8 页：出版、获奖与校园搭配]]。课件用 **Le salaire n'était pas très intéressant.** 对照 **un travail sympa**：工作有趣，待遇却不吸引人。
 
 ## 语法
 
@@ -104,7 +104,7 @@ pages: 102-107
 
 教材用 **est soignée / a été soignée / était soignée / va être soignée / sera soignée** 对照现在、复合过去、未完成过去、最近将来和简单将来。部分动词或突出状态的表达用 **de**，如课件 **La professeure est aimée de ses élèves. / La maison est couverte de neige.** 后一句的 **de neige** 描写覆盖状态，不等于主动施事者。标题 **650 000 livres vendus** 省略了 **ont été**。课件第 9 页的简写公式应与教材合看，不能漏掉 **être**。
 
-> 来源：[[你好法语2-11.16.pdf#page=104|教材第 104 页：被动态与施动者补语]]；[[你好法语2-11.16.pdf#page=103|第 103 页：vendus 的省略说明]]；[[你好法语A2第五单元.pdf#page=9|课件第 9 页：主动／被动对照]]。
+> 来源：[[你好法语2-11.23.pdf#page=104|教材第 104 页：被动态与施动者补语]]；[[你好法语2-11.23.pdf#page=103|第 103 页：vendus 的省略说明]]；[[你好法语A2第五单元.pdf#page=9|课件第 9 页：主动／被动对照]]。
 
 ### 2. depuis 与 il y a：持续多久 vs 多久以前
 
@@ -112,7 +112,7 @@ pages: 102-107
 - **J'ai trouvé un travail … il y a 20 ans exactement.** 我整整二十年前找到了工作。**il y a + 时长** 给已发生的事件定位。
 - **J'y suis resté deux ans.** 我在那里待了两年，是已结束的一段时长；**y** 代前面提到的修车厂。
 
-> 来源：[[你好法语2-11.16.pdf#page=105|教材第 105 页：时间表达]]；[[你好法语2-11.16.pdf#page=107|第 107 页：录音中的三个表达]]。
+> 来源：[[你好法语2-11.23.pdf#page=105|教材第 105 页：时间表达]]；[[你好法语2-11.23.pdf#page=107|第 107 页：录音中的三个表达]]。
 
 ### 3. faire + 不定式：让别人做
 
@@ -125,7 +125,7 @@ pages: 102-107
 
 有直接宾语时，名词执行者可见 **à / par**：课件 **Jean fait organiser une fête par ses amis.**（Jean 让朋友们组织聚会。）执行者也可不提：**Il est allé faire réparer sa voiture.**（他去找人修车。）课文 **nous fait rire** 里，**nous** 是实际发笑的人。
 
-> 来源：[[你好法语2-11.16.pdf#page=105|教材第 105 页：使动结构表]]；[[你好法语A2第五单元.pdf#page=10|课件第 10–11 页：执行者的位置和代词]]。第 11 页用逗号拆开的几行是重组提示，复习时用下方拼好的完整句。
+> 来源：[[你好法语2-11.23.pdf#page=105|教材第 105 页：使动结构表]]；[[你好法语A2第五单元.pdf#page=10|课件第 10–11 页：执行者的位置和代词]]。第 11 页用逗号拆开的几行是重组提示，复习时用下方拼好的完整句。
 
 ## 快速复习
 
@@ -133,4 +133,4 @@ pages: 102-107
 - il y a vingt ans 定位过去事件，depuis vingt ans 表持续到参照时刻。
 - les fait venir 对比 lui fait manger une pomme：看不定式有没有直接宾语。
 
-**教材来源：** [[你好法语2-11.16.pdf#page=102|第 102–107 页]]。**课件：** [[你好法语A2第五单元.pdf#page=7|U5L19，第 7–11 页]]。第 106 页的练习不代作答。
+**教材来源：** [[你好法语2-11.23.pdf#page=102|第 102–107 页]]。**课件：** [[你好法语A2第五单元.pdf#page=7|U5L19，第 7–11 页]]。第 106 页的练习不代作答。
